@@ -1,0 +1,801 @@
+﻿id,tarih,kategori,urun_adi,marka,fiyat_TL,stok_adedi,satis_adedi,puan,kisa_yorum
+1,2025-01-10,Ev & Yaşam,LG Akıllı Telefon Pro350,LG,2716.59,188,260,1.0,Malzeme kalitesi beklediğim gibi değil.
+2,2023-11-24,Kozmetik,Nike Ders Kitabı X674,Nike,2425.31,166,3679,5.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+3,2023-03-07,Moda,Defacto Bebek Bezi Pro259,Defacto,2622.21,195,3112,3.0,Pil ömrü daha iyi olabilirdi.
+4,2025-10-03,Spor,LG Televizyon Ultra649,LG,1540.8,236,2401,4.0,
+5,2023-12-19,Market,Xiaomi Araç Aksesuarı M171,Xiaomi,596.65,58,827,3.0,"Ambalaj hasarlı geldi, iade ettim."
+6,2025-08-27,Market,Defacto Mutfak Robotu Pro314,Defacto,8058.26,179,2005,1.0,"Satıcı ilgiliydi, teşekkürler."
+7,2022-11-03,Spor,Xiaomi Oto Lastik M432,Xiaomi,10121.92,198,2584,1.0,Fiyatına göre performansı iyi.
+8,2023-06-18,Kozmetik,Zeytin Araç Aksesuarı M422,Zeytin,2590.1,127,2169,4.0,Fiyat/performans açısından başarılı.
+9,2023-06-09,Oto & Aksesuar,LG Kot Pantolon Plus538,LG,10778.88,102,4174,3.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+10,2024-10-19,Ev & Yaşam,Beko Çamaşır Makinesi S911,Beko,8181.43,152,4881,1.0,
+11,2024-07-26,Oto & Aksesuar,Adidas Kot Pantolon X796,Adidas,8662.35,174,913,5.0,"Kargo geç geldi, ürün sağlamdı."
+12,2024-05-02,Kitap,LG Akıllı Telefon M369,LG,11664.03,195,4158,2.0,"Kargo geç geldi, ürün sağlamdı."
+13,2024-09-11,Market,Adidas Mutfak Robotu Plus100,Adidas,7206.99,125,2519,1.0,Malzeme kalitesi beklediğim gibi değil.
+14,2023-05-19,Ev & Yaşam,LG Kablosuz Kulaklık Ultra935,LG,876.16,194,3893,5.0,
+15,2024-05-29,Moda,Adidas Kot Pantolon Plus533,Adidas,11574.1,237,3268,5.0,
+16,2022-10-12,Market,Zeytin Masaj Aleti Plus562,Zeytin,1495.12,57,4819,1.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+17,2023-01-22,Kozmetik,Arçelik Akıllı Telefon M746,Arçelik,752.6,17,4211,1.0,"Ambalaj hasarlı geldi, iade ettim."
+18,2023-09-23,Kozmetik,Samsung Oto Lastik M684,Samsung,6935.31,62,772,4.0,"Satıcı ilgiliydi, teşekkürler."
+19,2024-12-01,Market,NIVEA Bebek Bezi Ultra984,NIVEA,8762.19,172,2779,1.0,
+20,2025-04-03,Ev & Yaşam,Xiaomi Spor Ayakkabı S649,Xiaomi,5410.38,108,2046,2.0,
+21,2023-12-27,Ev & Yaşam,Philips Masaj Aleti Plus200,Philips,653.58,138,1362,1.0,"Ambalaj hasarlı geldi, iade ettim."
+22,2024-04-05,Kozmetik,Zeytin Koşu Bandı X268,Zeytin,4578.11,99,3465,3.0,Fiyat/performans açısından başarılı.
+23,2024-06-02,Kitap,Xiaomi Çamaşır Makinesi Pro322,Xiaomi,11626.05,148,468,5.0,"Ambalaj hasarlı geldi, iade ettim."
+24,2023-12-24,Oto & Aksesuar,Samsung Ders Kitabı X620,Samsung,1006.41,47,3307,1.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+25,2024-02-15,Kozmetik,Nike Araç Aksesuarı X734,Nike,1028.78,168,1673,5.0,Pil ömrü daha iyi olabilirdi.
+26,2022-09-18,Kozmetik,NIVEA Kot Pantolon S787,NIVEA,7763.38,117,3754,3.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+27,2024-01-12,Ev & Yaşam,Adidas Kablosuz Kulaklık S618,Adidas,3218.41,238,3027,3.0,"Ambalaj hasarlı geldi, iade ettim."
+28,2023-03-30,Oto & Aksesuar,Nike T-Shirt M641,Nike,142.49,209,1100,5.0,Fiyatına göre performansı iyi.
+29,2025-06-30,Oto & Aksesuar,Mavi Çamaşır Makinesi Pro719,Mavi,2566.24,87,4002,2.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+30,2023-07-26,Ev & Yaşam,Hepsiburada Bebek Bezi Pro145,Hepsiburada,91.37,197,3619,2.0,"Satıcı ilgiliydi, teşekkürler."
+31,2025-12-04,Oto & Aksesuar,Arçelik Akıllı Telefon X807,Arçelik,10851.85,139,4526,1.0,"Kargo geç geldi, ürün sağlamdı."
+32,2025-10-19,Elektronik,Defacto T-Shirt X466,Defacto,2559.62,63,3329,1.0,
+33,2023-09-01,Moda,Hepsiburada Spor Ayakkabı S919,Hepsiburada,9738.53,225,2721,4.0,
+34,2023-11-28,Anne & Bebek,Mavi Spor Ayakkabı S906,Mavi,8429.98,97,1634,1.0,
+35,2024-03-22,Kitap,Mavi Nemlendirici Krem S328,Mavi,331.81,49,568,4.0,
+36,2022-10-25,Spor,Beko Nemlendirici Krem Plus509,Beko,8169.92,215,944,5.0,
+37,2025-02-08,Spor,Nike Mutfak Robotu Pro139,Nike,1344.52,111,4966,3.0,
+38,2025-07-29,Ev & Yaşam,Zeytin Koşu Bandı Plus294,Zeytin,3093.19,181,4410,4.0,Malzeme kalitesi beklediğim gibi değil.
+39,2025-07-03,Market,Arçelik Bebek Bezi M438,Arçelik,7496.33,169,2533,1.0,Pil ömrü daha iyi olabilirdi.
+40,2025-11-07,Anne & Bebek,Adidas T-Shirt S296,Adidas,5073.75,240,2465,4.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+41,2025-02-19,Spor,Xiaomi T-Shirt Ultra904,Xiaomi,6980.4,167,3622,3.0,Fiyat/performans açısından başarılı.
+42,2023-03-09,Kitap,Beko Mutfak Robotu X390,Beko,6209.17,162,1924,5.0,Malzeme kalitesi beklediğim gibi değil.
+43,2024-12-25,Kozmetik,Vestel Çamaşır Makinesi X350,Vestel,11808.02,156,4715,1.0,"Satıcı ilgiliydi, teşekkürler."
+44,2023-11-21,Kitap,Xiaomi Koşu Bandı S771,Xiaomi,8266.78,228,1440,1.0,
+45,2025-04-07,Oto & Aksesuar,Vestel Masaj Aleti Plus355,Vestel,11013.68,31,4351,4.0,
+46,2023-07-21,Market,Nike Masaj Aleti M616,Nike,5148.98,232,3888,5.0,Malzeme kalitesi beklediğim gibi değil.
+47,2024-03-08,Spor,Penti Ders Kitabı M344,Penti,3330.71,19,2751,3.0,Fiyat/performans açısından başarılı.
+48,2024-12-26,Ev & Yaşam,Samsung Çamaşır Makinesi S492,Samsung,8342.39,180,3339,2.0,"Ambalaj hasarlı geldi, iade ettim."
+49,2025-05-02,Anne & Bebek,Xiaomi Televizyon Ultra498,Xiaomi,10862.72,149,48,1.0,
+50,2025-05-25,Spor,Hepsiburada Koşu Bandı Ultra651,Hepsiburada,8982.56,139,1797,5.0,"Ambalaj hasarlı geldi, iade ettim."
+51,2023-05-18,Elektronik,Defacto Koşu Bandı M795,Defacto,9587.6,185,4375,2.0,"Satıcı ilgiliydi, teşekkürler."
+52,2024-10-14,Elektronik,Beko Kablosuz Kulaklık Ultra238,Beko,10408.74,46,2681,1.0,Pil ömrü daha iyi olabilirdi.
+53,2024-08-15,Market,Mavi Koşu Bandı Ultra358,Mavi,10027.02,120,1836,1.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+54,2025-10-28,Elektronik,Xiaomi Spor Ayakkabı X736,Xiaomi,1870.12,32,1785,4.0,Kullanımı çok kolay ve pratik.
+55,2023-04-08,Market,Nike Mutfak Robotu Plus865,Nike,8634.09,199,4740,2.0,Kullanımı çok kolay ve pratik.
+56,2024-05-08,Anne & Bebek,LG Koşu Bandı S177,LG,7125.16,212,4918,2.0,
+57,2025-01-06,Elektronik,Adidas Nemlendirici Krem Ultra777,Adidas,4477.69,129,4015,3.0,Pil ömrü daha iyi olabilirdi.
+58,2025-04-08,Kitap,NIVEA Çamaşır Makinesi S851,NIVEA,6284.4,166,3568,3.0,
+59,2025-04-07,Spor,Hepsiburada Parfüm S950,Hepsiburada,11218.67,71,4668,4.0,"Satıcı ilgiliydi, teşekkürler."
+60,2024-03-24,Market,Penti Akıllı Telefon Pro286,Penti,5875.71,90,4883,3.0,
+61,2025-10-10,Spor,Vestel Oto Lastik Plus295,Vestel,1072.16,184,1968,4.0,"Ambalaj hasarlı geldi, iade ettim."
+62,2025-04-25,Kitap,Arçelik Akıllı Telefon Pro326,Arçelik,4882.0,62,4534,3.0,"Satıcı ilgiliydi, teşekkürler."
+63,2023-09-28,Oto & Aksesuar,Defacto Parfüm M564,Defacto,3286.72,64,2584,2.0,Fiyat/performans açısından başarılı.
+64,2023-03-23,Moda,Xiaomi Kahve Makinesi M595,Xiaomi,3353.45,150,1590,5.0,Pil ömrü daha iyi olabilirdi.
+65,2023-05-15,Moda,Vestel T-Shirt M646,Vestel,1561.79,11,4021,1.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+66,2023-04-20,Spor,Penti Roman Kitap Ultra448,Penti,2252.33,13,535,3.0,Fiyatına göre performansı iyi.
+67,2023-12-05,Elektronik,Samsung Çamaşır Makinesi Plus411,Samsung,1067.0,63,4280,1.0,"Ambalaj hasarlı geldi, iade ettim."
+68,2023-11-05,Spor,NIVEA Araç Aksesuarı Pro682,NIVEA,7470.9,156,2167,1.0,"Kargo geç geldi, ürün sağlamdı."
+69,2024-04-17,Kozmetik,Adidas Mutfak Robotu X260,Adidas,80.98,115,267,5.0,Kullanımı çok kolay ve pratik.
+70,2025-01-16,Kitap,Beko Kablosuz Kulaklık S370,Beko,9464.33,160,940,5.0,"Kargo geç geldi, ürün sağlamdı."
+71,2025-02-14,Spor,Arçelik Çamaşır Makinesi X269,Arçelik,9521.7,152,1018,5.0,Kullanımı çok kolay ve pratik.
+72,2024-06-20,Anne & Bebek,Adidas Kot Pantolon Plus605,Adidas,5280.66,153,4945,1.0,Fiyatına göre performansı iyi.
+73,2023-08-23,Kozmetik,Nike Araç Aksesuarı X883,Nike,8083.44,68,3854,5.0,"Ambalaj hasarlı geldi, iade ettim."
+74,2024-08-11,Spor,Nike Mutfak Robotu Ultra750,Nike,9780.04,248,3345,1.0,Fiyatına göre performansı iyi.
+75,2025-03-18,Moda,NIVEA Parfüm M607,NIVEA,3493.49,241,721,4.0,Pil ömrü daha iyi olabilirdi.
+76,2024-12-23,Ev & Yaşam,Hepsiburada Koşu Bandı Plus944,Hepsiburada,11858.01,168,444,5.0,Pil ömrü daha iyi olabilirdi.
+77,2025-05-18,Kitap,Philips Masaj Aleti X308,Philips,3240.59,33,994,3.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+78,2025-04-01,Kozmetik,Mavi Mutfak Robotu Plus114,Mavi,6648.96,23,962,2.0,"Kargo geç geldi, ürün sağlamdı."
+79,2025-03-22,Kitap,Adidas T-Shirt M379,Adidas,5014.53,123,4515,4.0,Malzeme kalitesi beklediğim gibi değil.
+80,2025-07-04,Oto & Aksesuar,Hepsiburada Çamaşır Makinesi X382,Hepsiburada,9283.24,218,2188,4.0,
+81,2025-09-06,Spor,Hepsiburada T-Shirt Plus693,Hepsiburada,11986.88,125,3967,2.0,Fiyat/performans açısından başarılı.
+82,2023-12-21,Oto & Aksesuar,Penti Koşu Bandı Pro990,Penti,2303.58,178,3365,2.0,"Ambalaj hasarlı geldi, iade ettim."
+83,2023-03-23,Anne & Bebek,Beko Koşu Bandı M255,Beko,5968.67,9,3606,2.0,"Ambalaj hasarlı geldi, iade ettim."
+84,2024-11-21,Elektronik,NIVEA Çamaşır Makinesi M258,NIVEA,943.27,200,657,3.0,
+85,2023-01-17,Oto & Aksesuar,Defacto Koşu Bandı M835,Defacto,10654.78,124,1923,5.0,Kullanımı çok kolay ve pratik.
+86,2023-08-05,Kozmetik,NIVEA Kablosuz Kulaklık X878,NIVEA,7622.92,223,2453,1.0,
+87,2025-08-21,Elektronik,Philips Parfüm X400,Philips,4333.0,110,3375,2.0,"Kargo geç geldi, ürün sağlamdı."
+88,2025-12-06,Moda,Arçelik Mutfak Robotu Plus991,Arçelik,4620.79,174,1172,2.0,Kullanımı çok kolay ve pratik.
+89,2023-01-28,Kitap,Beko Kot Pantolon X923,Beko,5609.24,73,3618,5.0,
+90,2023-04-05,Spor,LG Bebek Bezi Pro567,LG,10151.23,50,1943,4.0,Pil ömrü daha iyi olabilirdi.
+91,2024-04-07,Spor,Vestel T-Shirt M505,Vestel,3329.32,144,1885,1.0,Pil ömrü daha iyi olabilirdi.
+92,2022-11-18,Kozmetik,Nike Kahve Makinesi Pro794,Nike,9078.9,196,2530,2.0,
+93,2023-08-24,Elektronik,Defacto Araç Aksesuarı M234,Defacto,1126.18,75,1644,3.0,Fiyat/performans açısından başarılı.
+94,2024-07-23,Market,Adidas Ders Kitabı Pro950,Adidas,2015.47,233,943,4.0,Fiyatına göre performansı iyi.
+95,2023-03-02,Moda,Hepsiburada Spor Ayakkabı M841,Hepsiburada,8108.83,101,3232,5.0,Fiyat/performans açısından başarılı.
+96,2023-04-08,Ev & Yaşam,Defacto Masaj Aleti M866,Defacto,8084.14,149,1915,4.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+97,2024-12-13,Oto & Aksesuar,Zeytin Parfüm Plus326,Zeytin,7789.09,162,955,4.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+98,2024-09-27,Spor,Arçelik Roman Kitap X340,Arçelik,10652.64,34,4425,4.0,"Kargo geç geldi, ürün sağlamdı."
+99,2024-09-26,Anne & Bebek,Hepsiburada Buzdolabı Ultra730,Hepsiburada,4926.39,243,1779,3.0,Malzeme kalitesi beklediğim gibi değil.
+100,2024-11-22,Market,Beko Buzdolabı Pro657,Beko,10825.17,165,2260,3.0,Fiyatına göre performansı iyi.
+101,2024-07-13,Kitap,Beko Kablosuz Kulaklık S757,Beko,7691.58,248,1995,1.0,
+102,2023-06-28,Kozmetik,Hepsiburada Kablosuz Kulaklık Plus312,Hepsiburada,7056.86,208,4882,2.0,"Kargo geç geldi, ürün sağlamdı."
+103,2024-09-01,Moda,Mavi Oto Lastik S212,Mavi,7949.3,6,1949,2.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+104,2025-03-05,Moda,Vestel Kot Pantolon S859,Vestel,5079.9,29,2965,1.0,Fiyatına göre performansı iyi.
+105,2025-03-25,Kitap,Xiaomi Ders Kitabı Plus144,Xiaomi,8740.28,232,255,5.0,"Ambalaj hasarlı geldi, iade ettim."
+106,2024-06-19,Anne & Bebek,Beko Bebek Bezi X602,Beko,8562.91,113,4983,1.0,"Kargo geç geldi, ürün sağlamdı."
+107,2025-03-16,Spor,Beko Mutfak Tencere Plus661,Beko,8559.94,97,4141,5.0,Fiyatına göre performansı iyi.
+108,2025-03-15,Ev & Yaşam,LG Oto Lastik S540,LG,5445.53,58,3266,4.0,Fiyatına göre performansı iyi.
+109,2023-03-04,Market,Defacto Bebek Bezi M361,Defacto,4522.27,39,699,4.0,Fiyatına göre performansı iyi.
+110,2024-12-18,Market,Adidas Çamaşır Makinesi X700,Adidas,11481.62,143,2896,3.0,
+111,2023-07-12,Anne & Bebek,Mavi Televizyon Plus419,Mavi,4251.52,147,3950,5.0,Fiyatına göre performansı iyi.
+112,2024-02-28,Market,Defacto Oto Lastik X880,Defacto,3378.17,57,237,4.0,Kullanımı çok kolay ve pratik.
+113,2023-06-16,Market,Vestel Nemlendirici Krem S990,Vestel,1761.0,168,251,4.0,Fiyat/performans açısından başarılı.
+114,2022-12-15,Kozmetik,NIVEA Koşu Bandı Ultra449,NIVEA,1930.2,79,1274,3.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+115,2024-03-11,Elektronik,Mavi Kablosuz Kulaklık Ultra777,Mavi,5116.4,155,1765,4.0,
+116,2022-12-01,Ev & Yaşam,NIVEA Nemlendirici Krem X390,NIVEA,8154.38,151,1806,4.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+117,2024-07-01,Elektronik,Xiaomi Akıllı Telefon Pro316,Xiaomi,9219.59,195,982,3.0,"Satıcı ilgiliydi, teşekkürler."
+118,2024-11-20,Moda,NIVEA Çamaşır Makinesi Plus820,NIVEA,2799.05,143,346,3.0,"Ambalaj hasarlı geldi, iade ettim."
+119,2023-04-22,Ev & Yaşam,Nike Parfüm Ultra687,Nike,4882.26,163,3318,4.0,Pil ömrü daha iyi olabilirdi.
+120,2025-02-07,Moda,Penti Mutfak Tencere M470,Penti,1102.24,216,4824,1.0,Fiyatına göre performansı iyi.
+121,2025-08-20,Anne & Bebek,LG T-Shirt Pro326,LG,4029.5,43,4177,1.0,Pil ömrü daha iyi olabilirdi.
+122,2023-01-31,Market,Xiaomi Çamaşır Makinesi X249,Xiaomi,3108.08,44,1451,5.0,
+123,2024-06-07,Kitap,Philips Masaj Aleti Plus878,Philips,6974.22,174,1236,5.0,"Ambalaj hasarlı geldi, iade ettim."
+124,2025-04-01,Kitap,Philips T-Shirt Pro705,Philips,720.31,129,3702,1.0,Pil ömrü daha iyi olabilirdi.
+125,2025-03-08,Spor,Beko Kablosuz Kulaklık X729,Beko,7148.85,98,4683,4.0,Pil ömrü daha iyi olabilirdi.
+126,2025-06-28,Kitap,Samsung Ders Kitabı X561,Samsung,1285.95,230,1413,3.0,"Ambalaj hasarlı geldi, iade ettim."
+127,2024-12-14,Kitap,Adidas Ders Kitabı Plus262,Adidas,4397.94,234,2771,3.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+128,2024-07-12,Market,Defacto Kablosuz Kulaklık X671,Defacto,8156.31,72,667,3.0,"Kargo geç geldi, ürün sağlamdı."
+129,2025-10-17,Market,Beko T-Shirt M778,Beko,4733.29,152,3085,1.0,Pil ömrü daha iyi olabilirdi.
+130,2024-05-23,Moda,Arçelik Ders Kitabı M786,Arçelik,5109.13,92,1476,1.0,
+131,2024-07-19,Market,Xiaomi Roman Kitap S240,Xiaomi,1900.75,75,1073,1.0,"Kargo geç geldi, ürün sağlamdı."
+132,2022-11-27,Moda,Hepsiburada Mutfak Robotu M889,Hepsiburada,7515.27,231,3365,2.0,Malzeme kalitesi beklediğim gibi değil.
+133,2025-04-16,Kitap,Mavi Mutfak Tencere M902,Mavi,5414.14,136,1589,2.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+134,2023-10-12,Kitap,Philips Masaj Aleti Pro896,Philips,4612.76,135,4953,4.0,Kullanımı çok kolay ve pratik.
+135,2024-04-04,Elektronik,Hepsiburada Roman Kitap Pro667,Hepsiburada,11214.74,182,687,5.0,
+136,2024-08-14,Spor,Zeytin Masaj Aleti Plus250,Zeytin,9980.84,23,218,2.0,"Satıcı ilgiliydi, teşekkürler."
+137,2024-07-16,Oto & Aksesuar,Xiaomi Nemlendirici Krem Ultra183,Xiaomi,4529.58,7,1196,3.0,Kullanımı çok kolay ve pratik.
+138,2024-02-05,Kitap,Philips Çamaşır Makinesi M580,Philips,5410.24,1,1766,1.0,
+139,2022-12-05,Oto & Aksesuar,Adidas Mutfak Tencere Ultra213,Adidas,9325.04,60,1953,3.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+140,2023-06-20,Kitap,Arçelik Kablosuz Kulaklık Ultra711,Arçelik,6455.38,161,2386,5.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+141,2023-01-15,Market,Nike Spor Ayakkabı Ultra291,Nike,7988.9,21,4309,5.0,Fiyat/performans açısından başarılı.
+142,2024-08-30,Oto & Aksesuar,NIVEA Akıllı Telefon Ultra144,NIVEA,7645.9,95,553,3.0,Fiyatına göre performansı iyi.
+143,2025-05-06,Market,Vestel Çamaşır Makinesi Pro659,Vestel,4094.98,164,1493,2.0,
+144,2024-05-26,Ev & Yaşam,Vestel Masaj Aleti Pro306,Vestel,572.53,51,4222,1.0,Fiyat/performans açısından başarılı.
+145,2024-03-11,Kitap,Vestel Kot Pantolon M295,Vestel,3468.31,220,1019,1.0,
+146,2024-09-20,Anne & Bebek,LG Koşu Bandı Ultra495,LG,4100.83,47,4253,4.0,Fiyatına göre performansı iyi.
+147,2023-02-09,Anne & Bebek,NIVEA Kablosuz Kulaklık Plus942,NIVEA,2205.64,75,2686,3.0,Kullanımı çok kolay ve pratik.
+148,2024-08-21,Kitap,LG Mutfak Tencere Ultra270,LG,8292.38,89,3563,4.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+149,2025-02-12,Ev & Yaşam,Defacto Koşu Bandı Plus920,Defacto,9011.03,40,285,1.0,Malzeme kalitesi beklediğim gibi değil.
+150,2024-09-29,Market,NIVEA Nemlendirici Krem Plus133,NIVEA,7280.49,173,3636,4.0,
+151,2023-09-15,Moda,Defacto Ders Kitabı Ultra421,Defacto,7811.9,63,4088,1.0,Fiyat/performans açısından başarılı.
+152,2023-10-13,Ev & Yaşam,Philips Kot Pantolon Pro820,Philips,5382.41,156,1004,3.0,Fiyatına göre performansı iyi.
+153,2023-01-09,Kitap,Zeytin Mutfak Robotu M555,Zeytin,11967.28,207,4505,3.0,Kullanımı çok kolay ve pratik.
+154,2025-06-06,Moda,Philips Mutfak Robotu Pro620,Philips,2728.91,51,215,2.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+155,2024-11-22,Market,Philips Masaj Aleti Plus232,Philips,7362.39,22,3921,1.0,"Satıcı ilgiliydi, teşekkürler."
+156,2023-05-19,Ev & Yaşam,Defacto Çamaşır Makinesi M175,Defacto,5426.65,174,4516,5.0,"Kargo geç geldi, ürün sağlamdı."
+157,2023-07-27,Moda,Adidas Bebek Bezi X951,Adidas,1532.85,39,2643,3.0,
+158,2023-05-13,Kozmetik,Adidas Nemlendirici Krem Pro966,Adidas,991.45,50,2480,5.0,Fiyatına göre performansı iyi.
+159,2025-10-27,Oto & Aksesuar,Nike Mutfak Robotu Plus257,Nike,2095.02,159,337,5.0,
+160,2022-10-31,Elektronik,Vestel Kablosuz Kulaklık M889,Vestel,6941.99,166,4079,2.0,
+161,2025-03-15,Oto & Aksesuar,Beko T-Shirt Pro594,Beko,2975.54,206,597,4.0,"Kargo geç geldi, ürün sağlamdı."
+162,2024-08-06,Kitap,Penti Bebek Bezi Ultra308,Penti,4114.64,36,3266,3.0,Pil ömrü daha iyi olabilirdi.
+163,2023-06-14,Oto & Aksesuar,Arçelik Oto Lastik Pro347,Arçelik,5623.81,68,793,4.0,"Satıcı ilgiliydi, teşekkürler."
+164,2023-07-22,Anne & Bebek,Hepsiburada Spor Ayakkabı S933,Hepsiburada,3962.19,147,4081,3.0,
+165,2024-01-05,Kitap,Zeytin Roman Kitap Pro609,Zeytin,325.98,241,1762,4.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+166,2023-04-07,Elektronik,Penti T-Shirt Plus963,Penti,7868.06,120,3530,3.0,Kullanımı çok kolay ve pratik.
+167,2025-10-06,Market,Defacto Koşu Bandı X510,Defacto,660.39,143,2364,2.0,Fiyat/performans açısından başarılı.
+168,2024-10-02,Kitap,Mavi Oto Lastik Plus796,Mavi,7351.58,32,2777,1.0,Pil ömrü daha iyi olabilirdi.
+169,2024-07-12,Moda,Nike Kahve Makinesi Plus511,Nike,6025.43,11,3880,1.0,"Kargo geç geldi, ürün sağlamdı."
+170,2025-07-03,Oto & Aksesuar,Defacto Çamaşır Makinesi Plus426,Defacto,1991.06,157,4175,3.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+171,2022-10-23,Spor,Hepsiburada Roman Kitap X477,Hepsiburada,4007.64,28,4889,4.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+172,2023-06-28,Kozmetik,Nike Televizyon Ultra274,Nike,6314.1,184,1984,5.0,Fiyatına göre performansı iyi.
+173,2025-06-22,Kozmetik,Penti Akıllı Telefon Pro528,Penti,1858.75,176,3863,2.0,
+174,2024-06-02,Elektronik,Adidas Çamaşır Makinesi S674,Adidas,3933.67,169,1418,4.0,Fiyat/performans açısından başarılı.
+175,2023-09-27,Market,Defacto Oto Lastik M890,Defacto,10418.34,174,2019,3.0,Kullanımı çok kolay ve pratik.
+176,2025-05-08,Kozmetik,Philips T-Shirt Pro821,Philips,2526.18,180,2857,4.0,Kullanımı çok kolay ve pratik.
+177,2023-06-25,Spor,Nike Buzdolabı M656,Nike,4586.73,250,2379,4.0,Fiyatına göre performansı iyi.
+178,2025-10-24,Market,Beko Masaj Aleti Pro865,Beko,5774.48,51,2225,5.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+179,2024-12-23,Kozmetik,Vestel Spor Ayakkabı M643,Vestel,2746.0,59,2705,1.0,
+180,2023-10-12,Ev & Yaşam,Vestel Çamaşır Makinesi Plus261,Vestel,4911.95,239,2353,4.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+181,2025-01-01,Ev & Yaşam,Xiaomi Araç Aksesuarı Plus856,Xiaomi,8690.98,239,1440,1.0,
+182,2022-09-17,Elektronik,Philips Koşu Bandı Ultra290,Philips,11242.41,246,2444,3.0,Fiyatına göre performansı iyi.
+183,2024-03-10,Market,Penti T-Shirt M656,Penti,6315.13,227,1579,2.0,
+184,2024-04-25,Market,LG Mutfak Robotu Ultra763,LG,3123.57,47,4651,1.0,Malzeme kalitesi beklediğim gibi değil.
+185,2024-11-27,Moda,Hepsiburada Mutfak Tencere M515,Hepsiburada,9932.36,131,781,3.0,"Kargo geç geldi, ürün sağlamdı."
+186,2024-07-05,Kitap,Zeytin Parfüm S106,Zeytin,3165.64,60,2473,4.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+187,2024-05-19,Elektronik,Beko Kot Pantolon Pro809,Beko,2873.05,170,1308,1.0,Fiyat/performans açısından başarılı.
+188,2023-07-09,Spor,Beko Buzdolabı Pro476,Beko,7394.39,56,3727,2.0,
+189,2023-02-13,Market,LG Bebek Bezi Plus582,LG,9100.1,205,4304,2.0,Pil ömrü daha iyi olabilirdi.
+190,2023-08-01,Ev & Yaşam,Arçelik Araç Aksesuarı X948,Arçelik,6593.96,129,2687,2.0,
+191,2022-12-21,Kitap,Beko Buzdolabı S834,Beko,7018.2,23,3714,5.0,"Satıcı ilgiliydi, teşekkürler."
+192,2024-02-02,Kitap,Vestel Araç Aksesuarı Plus573,Vestel,8089.25,78,24,1.0,
+193,2022-11-02,Ev & Yaşam,NIVEA Televizyon Pro817,NIVEA,810.99,15,2351,1.0,"Kargo geç geldi, ürün sağlamdı."
+194,2023-02-10,Anne & Bebek,Zeytin Nemlendirici Krem Ultra559,Zeytin,10441.83,232,4417,4.0,Pil ömrü daha iyi olabilirdi.
+195,2022-10-15,Ev & Yaşam,Adidas Mutfak Robotu Ultra641,Adidas,1570.93,250,2444,2.0,Fiyat/performans açısından başarılı.
+196,2023-04-18,Anne & Bebek,NIVEA Oto Lastik S353,NIVEA,5553.93,39,263,3.0,
+197,2025-03-01,Anne & Bebek,Philips Mutfak Tencere X346,Philips,2511.88,25,4897,5.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+198,2025-06-26,Kozmetik,NIVEA Televizyon Ultra339,NIVEA,6499.67,193,2369,1.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+199,2024-12-23,Market,Nike Araç Aksesuarı M938,Nike,3881.27,77,2461,2.0,Fiyat/performans açısından başarılı.
+200,2024-12-29,Moda,Adidas Bebek Bezi Ultra148,Adidas,11668.84,241,3344,4.0,"Satıcı ilgiliydi, teşekkürler."
+201,2022-12-26,Moda,Penti Oto Lastik S969,Penti,2742.09,219,4607,2.0,"Satıcı ilgiliydi, teşekkürler."
+202,2024-09-27,Oto & Aksesuar,Samsung Ders Kitabı Ultra348,Samsung,3096.45,84,757,1.0,Malzeme kalitesi beklediğim gibi değil.
+203,2025-10-17,Elektronik,NIVEA Kot Pantolon M719,NIVEA,7254.52,223,1777,1.0,Pil ömrü daha iyi olabilirdi.
+204,2023-10-22,Spor,Xiaomi Akıllı Telefon S859,Xiaomi,1451.05,193,3249,4.0,
+205,2024-02-16,Oto & Aksesuar,Philips Parfüm Pro489,Philips,5621.16,166,2946,3.0,"Ambalaj hasarlı geldi, iade ettim."
+206,2024-05-31,Kitap,Philips Buzdolabı M580,Philips,9151.23,81,3390,2.0,Malzeme kalitesi beklediğim gibi değil.
+207,2023-10-05,Moda,Mavi Akıllı Telefon Plus698,Mavi,6970.34,106,2702,3.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+208,2025-03-30,Kozmetik,Adidas Roman Kitap M801,Adidas,4083.23,195,1378,4.0,
+209,2025-08-07,Market,Samsung Mutfak Robotu M659,Samsung,5884.87,234,277,5.0,
+210,2023-07-05,Ev & Yaşam,Philips Televizyon X522,Philips,1692.16,161,74,2.0,"Ambalaj hasarlı geldi, iade ettim."
+211,2022-10-01,Market,Nike Televizyon M782,Nike,11210.08,233,54,4.0,"Satıcı ilgiliydi, teşekkürler."
+212,2023-09-01,Elektronik,Adidas Akıllı Telefon M381,Adidas,6451.61,73,876,1.0,
+213,2024-11-19,Oto & Aksesuar,Xiaomi Çamaşır Makinesi S734,Xiaomi,6340.68,208,647,3.0,"Satıcı ilgiliydi, teşekkürler."
+214,2023-03-09,Kitap,Xiaomi Araç Aksesuarı M331,Xiaomi,3634.0,211,3320,1.0,Fiyat/performans açısından başarılı.
+215,2025-10-31,Kitap,Beko Televizyon X819,Beko,2097.21,127,781,4.0,
+216,2025-09-15,Elektronik,Xiaomi Spor Ayakkabı M680,Xiaomi,5731.7,11,4616,1.0,"Kargo geç geldi, ürün sağlamdı."
+217,2024-05-03,Market,Xiaomi Akıllı Telefon Plus247,Xiaomi,9039.19,182,1330,4.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+218,2022-12-17,Anne & Bebek,Defacto Oto Lastik Ultra873,Defacto,8889.69,202,800,1.0,Fiyatına göre performansı iyi.
+219,2024-03-11,Market,Philips Mutfak Tencere Plus709,Philips,4790.0,198,3690,3.0,Pil ömrü daha iyi olabilirdi.
+220,2024-01-16,Oto & Aksesuar,NIVEA Koşu Bandı S796,NIVEA,7050.79,97,602,1.0,"Kargo geç geldi, ürün sağlamdı."
+221,2025-02-25,Anne & Bebek,LG Çamaşır Makinesi Ultra424,LG,4359.73,23,2948,1.0,
+222,2023-03-29,Ev & Yaşam,Arçelik Çamaşır Makinesi S541,Arçelik,5413.13,142,215,5.0,Fiyat/performans açısından başarılı.
+223,2023-02-19,Ev & Yaşam,Nike Mutfak Tencere Pro984,Nike,4652.98,74,4583,4.0,
+224,2024-03-01,Kozmetik,Adidas Araç Aksesuarı S801,Adidas,4599.13,35,4039,3.0,"Kargo geç geldi, ürün sağlamdı."
+225,2025-06-10,Anne & Bebek,NIVEA Kot Pantolon Pro595,NIVEA,9402.65,92,4864,3.0,"Ambalaj hasarlı geldi, iade ettim."
+226,2025-02-16,Ev & Yaşam,Mavi Çamaşır Makinesi X505,Mavi,4019.33,158,2742,4.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+227,2024-06-13,Moda,Defacto T-Shirt Plus811,Defacto,2449.38,80,2387,2.0,
+228,2023-04-20,Kitap,Philips Araç Aksesuarı S433,Philips,4543.24,209,4619,4.0,Fiyat/performans açısından başarılı.
+229,2023-01-18,Moda,Vestel Oto Lastik M572,Vestel,11318.49,53,3351,4.0,"Kargo geç geldi, ürün sağlamdı."
+230,2025-03-06,Spor,Mavi Spor Ayakkabı M257,Mavi,8596.79,202,4898,4.0,"Satıcı ilgiliydi, teşekkürler."
+231,2023-04-10,Oto & Aksesuar,Zeytin Ders Kitabı M528,Zeytin,6546.1,202,2033,3.0,Pil ömrü daha iyi olabilirdi.
+232,2023-04-03,Moda,Vestel Mutfak Tencere Plus760,Vestel,8145.47,102,86,3.0,Malzeme kalitesi beklediğim gibi değil.
+233,2025-04-04,Oto & Aksesuar,Adidas Ders Kitabı Plus804,Adidas,6923.64,114,4821,3.0,"Kargo geç geldi, ürün sağlamdı."
+234,2023-06-16,Market,Penti Akıllı Telefon X402,Penti,5020.32,246,2853,1.0,"Ambalaj hasarlı geldi, iade ettim."
+235,2023-01-14,Kozmetik,Penti Ders Kitabı Pro587,Penti,1215.69,184,2459,4.0,Fiyatına göre performansı iyi.
+236,2025-10-03,Elektronik,Beko Parfüm X793,Beko,9610.4,238,1311,2.0,"Satıcı ilgiliydi, teşekkürler."
+237,2022-10-28,Kitap,Philips Spor Ayakkabı Ultra744,Philips,2253.38,163,1616,4.0,"Satıcı ilgiliydi, teşekkürler."
+238,2025-09-02,Anne & Bebek,LG Akıllı Telefon S310,LG,3375.5,180,1531,1.0,Malzeme kalitesi beklediğim gibi değil.
+239,2024-11-10,Kitap,Mavi Buzdolabı M983,Mavi,5898.82,247,4808,3.0,Pil ömrü daha iyi olabilirdi.
+240,2023-05-31,Kitap,Samsung Mutfak Tencere M822,Samsung,9617.13,235,2565,5.0,Kullanımı çok kolay ve pratik.
+241,2025-11-19,Ev & Yaşam,Defacto Mutfak Robotu M244,Defacto,6153.87,107,3143,5.0,"Ambalaj hasarlı geldi, iade ettim."
+242,2022-12-17,Oto & Aksesuar,Adidas Mutfak Robotu S601,Adidas,3500.86,47,2941,3.0,
+243,2024-12-28,Kitap,Xiaomi Çamaşır Makinesi Ultra675,Xiaomi,6089.49,126,3636,4.0,Fiyatına göre performansı iyi.
+244,2025-10-31,Elektronik,Mavi Spor Ayakkabı X381,Mavi,2736.1,73,4057,2.0,Fiyatına göre performansı iyi.
+245,2025-09-21,Ev & Yaşam,Philips Kot Pantolon Plus943,Philips,11891.17,138,1790,1.0,
+246,2023-04-27,Ev & Yaşam,Mavi Spor Ayakkabı X560,Mavi,3189.9,220,1941,1.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+247,2022-12-29,Market,Beko Mutfak Tencere Ultra269,Beko,7412.62,200,4670,2.0,Kullanımı çok kolay ve pratik.
+248,2023-06-03,Oto & Aksesuar,Defacto Mutfak Robotu M399,Defacto,3506.82,68,3371,5.0,
+249,2025-05-28,Spor,LG Çamaşır Makinesi S355,LG,1796.76,82,1164,2.0,Kullanımı çok kolay ve pratik.
+250,2025-07-20,Anne & Bebek,Penti Koşu Bandı X748,Penti,9545.25,196,2279,1.0,Pil ömrü daha iyi olabilirdi.
+251,2024-09-01,Kitap,Defacto Roman Kitap Plus102,Defacto,10433.32,216,518,1.0,
+252,2025-09-23,Anne & Bebek,NIVEA Kahve Makinesi S606,NIVEA,3258.28,212,4734,3.0,"Ambalaj hasarlı geldi, iade ettim."
+253,2023-07-19,Market,Vestel Televizyon X741,Vestel,9417.27,117,3615,1.0,"Satıcı ilgiliydi, teşekkürler."
+254,2024-09-06,Kozmetik,Zeytin Çamaşır Makinesi M409,Zeytin,1948.94,238,2051,3.0,"Kargo geç geldi, ürün sağlamdı."
+255,2023-03-12,Elektronik,Beko Koşu Bandı Pro843,Beko,8408.02,59,8,4.0,Fiyatına göre performansı iyi.
+256,2025-01-10,Moda,Xiaomi Araç Aksesuarı Plus796,Xiaomi,5367.99,2,1082,3.0,Malzeme kalitesi beklediğim gibi değil.
+257,2024-10-21,Anne & Bebek,LG Kablosuz Kulaklık X205,LG,3793.86,225,1090,3.0,"Kargo geç geldi, ürün sağlamdı."
+258,2023-07-06,Ev & Yaşam,Nike Ders Kitabı X724,Nike,7817.39,112,3372,3.0,"Ambalaj hasarlı geldi, iade ettim."
+259,2025-01-25,Kozmetik,Zeytin Kablosuz Kulaklık X243,Zeytin,9041.48,150,2576,4.0,
+260,2022-10-23,Kozmetik,Beko Kot Pantolon X354,Beko,6662.64,153,2471,5.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+261,2024-10-28,Oto & Aksesuar,LG Kahve Makinesi Ultra402,LG,7771.37,200,923,2.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+262,2024-09-16,Ev & Yaşam,Zeytin Ders Kitabı X469,Zeytin,11210.33,33,4475,4.0,"Ambalaj hasarlı geldi, iade ettim."
+263,2025-07-02,Ev & Yaşam,Nike Akıllı Telefon X114,Nike,3182.38,10,2346,1.0,Fiyat/performans açısından başarılı.
+264,2024-03-20,Anne & Bebek,LG Bebek Bezi Ultra184,LG,7704.06,137,684,5.0,Fiyat/performans açısından başarılı.
+265,2025-02-10,Kozmetik,Adidas Çamaşır Makinesi Pro500,Adidas,7057.51,195,1954,1.0,Fiyatına göre performansı iyi.
+266,2022-09-24,Anne & Bebek,Penti Buzdolabı Plus723,Penti,706.65,170,1124,2.0,
+267,2024-09-29,Moda,Defacto Roman Kitap Plus629,Defacto,9406.48,184,1039,3.0,
+268,2024-02-19,Spor,Philips Buzdolabı X443,Philips,9694.75,69,4723,5.0,"Ambalaj hasarlı geldi, iade ettim."
+269,2024-02-03,Kitap,Defacto Ders Kitabı X611,Defacto,10319.21,42,842,3.0,
+270,2022-12-02,Ev & Yaşam,LG Spor Ayakkabı Plus102,LG,575.3,220,3864,1.0,"Kargo geç geldi, ürün sağlamdı."
+271,2024-12-29,Moda,Adidas Televizyon M858,Adidas,7885.31,57,2620,3.0,Fiyatına göre performansı iyi.
+272,2024-11-28,Market,Adidas Buzdolabı M153,Adidas,2192.34,205,564,5.0,
+273,2025-10-27,Spor,Defacto T-Shirt X666,Defacto,5507.57,94,2489,2.0,
+274,2023-07-04,Kozmetik,Defacto Masaj Aleti Plus605,Defacto,11973.55,198,52,2.0,
+275,2022-09-01,Elektronik,Adidas Spor Ayakkabı Pro751,Adidas,10082.75,224,3082,1.0,
+276,2024-03-25,Spor,Xiaomi Buzdolabı Plus343,Xiaomi,5066.22,246,762,1.0,Malzeme kalitesi beklediğim gibi değil.
+277,2025-06-30,Oto & Aksesuar,LG Bebek Bezi Pro569,LG,11695.9,21,1093,5.0,"Satıcı ilgiliydi, teşekkürler."
+278,2024-02-15,Ev & Yaşam,Nike Araç Aksesuarı X545,Nike,7965.87,33,2580,2.0,
+279,2025-12-09,Anne & Bebek,Defacto Parfüm Ultra378,Defacto,2840.89,241,892,2.0,"Kargo geç geldi, ürün sağlamdı."
+280,2024-05-22,Kitap,Defacto Masaj Aleti Ultra223,Defacto,6453.83,246,3795,2.0,Fiyatına göre performansı iyi.
+281,2023-11-13,Ev & Yaşam,Philips Mutfak Robotu M411,Philips,9925.15,178,2685,5.0,Malzeme kalitesi beklediğim gibi değil.
+282,2024-12-05,Market,Adidas Koşu Bandı X793,Adidas,3620.45,209,3704,2.0,Fiyat/performans açısından başarılı.
+283,2023-11-28,Kozmetik,Penti Buzdolabı X923,Penti,9535.82,31,1070,1.0,"Satıcı ilgiliydi, teşekkürler."
+284,2023-10-08,Market,Nike Kablosuz Kulaklık Plus365,Nike,11013.19,19,3632,1.0,
+285,2024-11-15,Ev & Yaşam,Arçelik Parfüm X572,Arçelik,654.17,236,4064,5.0,"Satıcı ilgiliydi, teşekkürler."
+286,2024-01-15,Moda,Xiaomi Nemlendirici Krem S381,Xiaomi,3393.54,226,2417,2.0,Fiyat/performans açısından başarılı.
+287,2025-09-16,Kitap,Arçelik Televizyon Pro492,Arçelik,1689.11,51,159,5.0,
+288,2024-03-05,Market,Adidas Roman Kitap Ultra452,Adidas,10956.4,128,1473,3.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+289,2025-12-08,Kozmetik,Zeytin Akıllı Telefon Pro159,Zeytin,9713.22,120,1906,5.0,
+290,2025-11-21,Ev & Yaşam,Beko Spor Ayakkabı S372,Beko,6427.12,202,3181,1.0,"Kargo geç geldi, ürün sağlamdı."
+291,2024-08-19,Moda,Nike Spor Ayakkabı Pro925,Nike,8870.09,91,4650,5.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+292,2023-11-21,Kozmetik,Adidas Roman Kitap Pro279,Adidas,5910.21,23,163,1.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+293,2022-10-13,Market,Xiaomi Mutfak Tencere S448,Xiaomi,8617.12,235,1210,3.0,"Kargo geç geldi, ürün sağlamdı."
+294,2024-07-19,Ev & Yaşam,Hepsiburada Ders Kitabı Pro174,Hepsiburada,4513.78,241,2472,4.0,"Kargo geç geldi, ürün sağlamdı."
+295,2023-11-30,Anne & Bebek,Beko Roman Kitap Pro278,Beko,8500.54,143,4824,5.0,
+296,2025-11-04,Anne & Bebek,LG T-Shirt M401,LG,1570.94,186,265,1.0,Pil ömrü daha iyi olabilirdi.
+297,2024-06-14,Kozmetik,Arçelik Araç Aksesuarı Ultra244,Arçelik,4006.79,19,1375,2.0,Fiyatına göre performansı iyi.
+298,2023-04-08,Market,Vestel Masaj Aleti Pro314,Vestel,3031.26,17,10,3.0,"Ambalaj hasarlı geldi, iade ettim."
+299,2023-03-25,Anne & Bebek,Zeytin Mutfak Robotu Ultra604,Zeytin,10587.04,89,3927,5.0,
+300,2024-02-15,Kozmetik,Penti Mutfak Robotu X918,Penti,10156.71,75,857,1.0,"Kargo geç geldi, ürün sağlamdı."
+301,2025-05-14,Anne & Bebek,LG Mutfak Robotu X660,LG,11304.86,250,253,1.0,"Kargo geç geldi, ürün sağlamdı."
+302,2024-03-28,Anne & Bebek,Vestel Mutfak Robotu X439,Vestel,2505.53,48,2436,4.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+303,2024-04-24,Anne & Bebek,Adidas Araç Aksesuarı Ultra257,Adidas,700.39,0,4916,4.0,Fiyatına göre performansı iyi.
+304,2024-11-21,Elektronik,Samsung Kahve Makinesi M398,Samsung,11725.82,121,3857,1.0,Kullanımı çok kolay ve pratik.
+305,2022-11-29,Ev & Yaşam,NIVEA Oto Lastik S479,NIVEA,10631.52,94,2156,2.0,Kullanımı çok kolay ve pratik.
+306,2024-08-03,Kozmetik,Nike Kot Pantolon X254,Nike,9038.96,170,4435,1.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+307,2025-11-14,Kozmetik,Vestel Oto Lastik Ultra938,Vestel,6294.38,247,1930,5.0,Fiyatına göre performansı iyi.
+308,2023-05-03,Anne & Bebek,Adidas Televizyon Plus629,Adidas,9615.18,173,3678,5.0,"Kargo geç geldi, ürün sağlamdı."
+309,2023-06-28,Kozmetik,Samsung Kahve Makinesi X533,Samsung,985.58,174,4874,4.0,Fiyatına göre performansı iyi.
+310,2022-09-24,Ev & Yaşam,Adidas Koşu Bandı Ultra665,Adidas,3946.54,70,4813,5.0,"Satıcı ilgiliydi, teşekkürler."
+311,2025-10-25,Ev & Yaşam,Samsung Bebek Bezi S680,Samsung,7075.4,194,827,1.0,
+312,2022-11-14,Oto & Aksesuar,Zeytin Nemlendirici Krem Ultra370,Zeytin,4626.75,124,1410,5.0,"Kargo geç geldi, ürün sağlamdı."
+313,2024-09-30,Anne & Bebek,NIVEA Televizyon Pro807,NIVEA,2888.31,190,165,4.0,Kullanımı çok kolay ve pratik.
+314,2024-05-06,Spor,Hepsiburada Kot Pantolon Ultra978,Hepsiburada,8369.08,25,3629,2.0,
+315,2024-12-10,Market,LG Kot Pantolon Ultra719,LG,7764.03,48,3968,4.0,
+316,2025-08-07,Market,Adidas Televizyon S167,Adidas,3767.23,129,4658,4.0,Malzeme kalitesi beklediğim gibi değil.
+317,2024-09-22,Kozmetik,Xiaomi Televizyon X567,Xiaomi,653.23,92,3802,2.0,Fiyatına göre performansı iyi.
+318,2024-08-04,Elektronik,Defacto Spor Ayakkabı Ultra708,Defacto,5380.38,245,1339,4.0,
+319,2023-11-26,Spor,Mavi Kablosuz Kulaklık X495,Mavi,642.38,218,1844,5.0,Kullanımı çok kolay ve pratik.
+320,2023-12-01,Anne & Bebek,Vestel Ders Kitabı M109,Vestel,5714.94,33,2067,2.0,Kullanımı çok kolay ve pratik.
+321,2024-05-09,Spor,Zeytin Bebek Bezi Ultra972,Zeytin,4216.42,64,4265,2.0,
+322,2024-05-02,Anne & Bebek,Arçelik Araç Aksesuarı X623,Arçelik,11993.18,247,885,3.0,Pil ömrü daha iyi olabilirdi.
+323,2023-07-03,Spor,Hepsiburada Parfüm Pro367,Hepsiburada,7890.29,243,4237,3.0,
+324,2024-04-26,Elektronik,NIVEA Mutfak Tencere M427,NIVEA,8184.71,184,2125,1.0,
+325,2023-11-28,Anne & Bebek,LG Koşu Bandı X697,LG,8511.13,146,4379,2.0,"Ambalaj hasarlı geldi, iade ettim."
+326,2023-03-17,Market,Mavi Ders Kitabı S960,Mavi,7908.15,142,3856,2.0,Kullanımı çok kolay ve pratik.
+327,2025-01-07,Oto & Aksesuar,Beko Mutfak Robotu Pro770,Beko,1116.22,90,2714,2.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+328,2025-04-23,Spor,Hepsiburada Masaj Aleti X581,Hepsiburada,690.49,162,1593,5.0,"Satıcı ilgiliydi, teşekkürler."
+329,2024-12-15,Oto & Aksesuar,NIVEA T-Shirt X991,NIVEA,10258.02,35,4664,2.0,
+330,2024-06-01,Kitap,Defacto Çamaşır Makinesi M284,Defacto,9358.13,124,475,3.0,Kullanımı çok kolay ve pratik.
+331,2025-02-03,Kozmetik,Nike Mutfak Robotu S601,Nike,9433.06,199,3517,1.0,"Ambalaj hasarlı geldi, iade ettim."
+332,2025-08-21,Anne & Bebek,Vestel Akıllı Telefon Plus304,Vestel,8781.11,243,1561,1.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+333,2023-08-07,Kozmetik,LG Spor Ayakkabı Pro419,LG,1589.85,98,534,5.0,
+334,2024-07-31,Spor,Penti T-Shirt M632,Penti,7176.22,86,4015,4.0,Malzeme kalitesi beklediğim gibi değil.
+335,2025-06-28,Moda,Vestel Koşu Bandı S329,Vestel,8739.39,33,1384,2.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+336,2022-12-06,Anne & Bebek,Philips Kot Pantolon Plus738,Philips,629.66,12,948,1.0,"Satıcı ilgiliydi, teşekkürler."
+337,2025-01-07,Ev & Yaşam,Mavi Oto Lastik Ultra818,Mavi,1879.02,177,827,1.0,Kullanımı çok kolay ve pratik.
+338,2023-04-04,Moda,Hepsiburada Bebek Bezi X623,Hepsiburada,8638.98,30,4077,3.0,Malzeme kalitesi beklediğim gibi değil.
+339,2023-10-29,Spor,Xiaomi Ders Kitabı Pro820,Xiaomi,4946.0,41,3937,1.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+340,2025-07-12,Elektronik,Zeytin Kablosuz Kulaklık X955,Zeytin,6910.7,126,614,2.0,
+341,2022-12-10,Ev & Yaşam,Beko Kot Pantolon S567,Beko,11864.55,75,817,3.0,
+342,2022-09-18,Elektronik,Defacto T-Shirt M420,Defacto,5140.07,29,1133,1.0,"Kargo geç geldi, ürün sağlamdı."
+343,2024-07-31,Market,Zeytin Nemlendirici Krem Ultra736,Zeytin,3255.57,187,1498,1.0,"Satıcı ilgiliydi, teşekkürler."
+344,2023-04-18,Kitap,Hepsiburada Kot Pantolon Ultra806,Hepsiburada,10215.38,204,1085,4.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+345,2024-10-15,Moda,NIVEA Buzdolabı Plus594,NIVEA,9636.87,173,2937,4.0,"Kargo geç geldi, ürün sağlamdı."
+346,2025-08-08,Kitap,Arçelik Roman Kitap Ultra551,Arçelik,598.42,66,4723,3.0,
+347,2025-05-12,Kozmetik,Adidas Parfüm Plus804,Adidas,8421.63,24,2832,4.0,"Satıcı ilgiliydi, teşekkürler."
+348,2025-06-10,Moda,Zeytin Oto Lastik Plus155,Zeytin,188.17,239,1354,2.0,"Ambalaj hasarlı geldi, iade ettim."
+349,2023-12-24,Market,Defacto Spor Ayakkabı Pro151,Defacto,6107.31,140,645,4.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+350,2024-12-03,Kitap,Hepsiburada Kablosuz Kulaklık Ultra557,Hepsiburada,3826.25,127,3377,1.0,Fiyat/performans açısından başarılı.
+351,2025-03-21,Elektronik,Philips Kablosuz Kulaklık Plus733,Philips,7668.22,227,2792,5.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+352,2023-04-20,Kozmetik,Defacto Masaj Aleti Plus885,Defacto,7455.73,121,798,3.0,
+353,2023-04-04,Kozmetik,Defacto Akıllı Telefon Pro949,Defacto,7621.88,204,375,3.0,
+354,2023-09-18,Kitap,Hepsiburada Çamaşır Makinesi M860,Hepsiburada,8672.35,27,989,3.0,
+355,2023-05-09,Anne & Bebek,Penti Kahve Makinesi S833,Penti,4087.64,193,3690,4.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+356,2025-07-06,Oto & Aksesuar,Penti Çamaşır Makinesi X643,Penti,8847.49,141,1451,4.0,"Kargo geç geldi, ürün sağlamdı."
+357,2025-01-03,Moda,NIVEA Buzdolabı M714,NIVEA,7293.23,82,4988,5.0,
+358,2025-07-14,Kozmetik,NIVEA Kot Pantolon Pro401,NIVEA,5460.96,34,2448,2.0,
+359,2024-08-06,Oto & Aksesuar,LG Parfüm M666,LG,7609.0,51,1086,2.0,
+360,2025-12-05,Moda,Adidas Ders Kitabı M752,Adidas,3901.78,29,4674,3.0,
+361,2023-06-23,Anne & Bebek,Mavi Oto Lastik Ultra927,Mavi,201.62,27,434,1.0,Malzeme kalitesi beklediğim gibi değil.
+362,2025-09-11,Spor,Mavi Mutfak Robotu M356,Mavi,1798.97,15,264,3.0,"Ambalaj hasarlı geldi, iade ettim."
+363,2023-12-29,Ev & Yaşam,Hepsiburada Mutfak Tencere M857,Hepsiburada,6764.09,57,4185,5.0,
+364,2022-09-25,Spor,Zeytin Televizyon Ultra496,Zeytin,5027.38,201,2058,3.0,"Ambalaj hasarlı geldi, iade ettim."
+365,2025-03-06,Kozmetik,Philips Nemlendirici Krem Plus659,Philips,8874.22,50,1453,2.0,
+366,2025-10-12,Ev & Yaşam,Samsung Mutfak Robotu M626,Samsung,1475.4,10,2164,4.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+367,2022-12-12,Spor,Defacto Akıllı Telefon Ultra826,Defacto,11253.0,10,2467,2.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+368,2025-06-29,Oto & Aksesuar,Arçelik Nemlendirici Krem M425,Arçelik,6328.0,244,1305,2.0,Fiyat/performans açısından başarılı.
+369,2023-11-20,Anne & Bebek,Defacto Kablosuz Kulaklık S318,Defacto,7976.51,84,4345,3.0,Fiyat/performans açısından başarılı.
+370,2022-11-19,Elektronik,Beko Buzdolabı Pro556,Beko,2921.4,164,2629,5.0,Fiyatına göre performansı iyi.
+371,2025-05-22,Anne & Bebek,Adidas Kot Pantolon M389,Adidas,344.26,132,359,3.0,Malzeme kalitesi beklediğim gibi değil.
+372,2023-01-11,Market,Arçelik Ders Kitabı X271,Arçelik,11660.94,197,1726,5.0,Malzeme kalitesi beklediğim gibi değil.
+373,2023-07-10,Anne & Bebek,Xiaomi Buzdolabı Plus948,Xiaomi,8447.48,249,194,4.0,Pil ömrü daha iyi olabilirdi.
+374,2024-02-10,Elektronik,Arçelik Kablosuz Kulaklık X282,Arçelik,9540.66,142,3339,1.0,"Satıcı ilgiliydi, teşekkürler."
+375,2025-12-11,Anne & Bebek,Vestel Parfüm Ultra789,Vestel,1462.87,1,372,5.0,
+376,2024-03-28,Ev & Yaşam,Zeytin Nemlendirici Krem Plus208,Zeytin,3512.84,175,3585,3.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+377,2023-06-21,Kitap,Adidas Mutfak Robotu S239,Adidas,8973.46,203,2441,5.0,Pil ömrü daha iyi olabilirdi.
+378,2025-09-03,Elektronik,Hepsiburada Oto Lastik Plus244,Hepsiburada,1521.78,1,4485,5.0,
+379,2023-07-25,Spor,LG Kahve Makinesi M843,LG,4158.37,105,1507,5.0,Kullanımı çok kolay ve pratik.
+380,2025-09-28,Kozmetik,Samsung Buzdolabı M918,Samsung,6828.71,13,599,5.0,Fiyatına göre performansı iyi.
+381,2023-12-23,Spor,Xiaomi Buzdolabı M694,Xiaomi,5871.41,84,819,3.0,Fiyatına göre performansı iyi.
+382,2025-10-31,Kozmetik,Penti Parfüm Ultra436,Penti,7414.91,78,4643,5.0,Pil ömrü daha iyi olabilirdi.
+383,2024-09-04,Anne & Bebek,Vestel Mutfak Robotu Pro352,Vestel,9438.42,182,1100,4.0,Pil ömrü daha iyi olabilirdi.
+384,2023-02-13,Kitap,Penti Masaj Aleti Pro893,Penti,3699.69,141,2298,1.0,
+385,2025-07-03,Moda,Xiaomi Oto Lastik Pro851,Xiaomi,10641.6,19,255,1.0,
+386,2023-06-30,Anne & Bebek,Xiaomi Araç Aksesuarı X664,Xiaomi,3163.63,228,2996,5.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+387,2024-01-01,Spor,Penti Çamaşır Makinesi Plus622,Penti,1131.21,93,1358,5.0,
+388,2024-09-02,Moda,Samsung Masaj Aleti S679,Samsung,11387.06,168,331,2.0,"Ambalaj hasarlı geldi, iade ettim."
+389,2024-11-01,Kozmetik,Mavi Kablosuz Kulaklık Pro339,Mavi,560.6,52,3847,5.0,
+390,2025-11-27,Elektronik,Beko Televizyon Pro205,Beko,8459.35,133,4459,3.0,"Satıcı ilgiliydi, teşekkürler."
+391,2025-07-22,Anne & Bebek,Nike Nemlendirici Krem M955,Nike,979.24,64,3324,4.0,Pil ömrü daha iyi olabilirdi.
+392,2023-12-14,Kitap,Zeytin Roman Kitap Plus106,Zeytin,6046.45,35,631,4.0,Kullanımı çok kolay ve pratik.
+393,2024-12-26,Kozmetik,Samsung Çamaşır Makinesi S470,Samsung,7243.74,209,2705,1.0,
+394,2024-01-11,Kitap,Penti Roman Kitap S704,Penti,1976.05,213,353,4.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+395,2024-02-09,Moda,Beko Çamaşır Makinesi Plus140,Beko,10694.92,37,1474,1.0,"Satıcı ilgiliydi, teşekkürler."
+396,2023-11-22,Elektronik,Arçelik T-Shirt S559,Arçelik,7297.59,120,3365,4.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+397,2023-01-17,Moda,Beko Mutfak Tencere Plus370,Beko,2053.44,175,1882,3.0,"Kargo geç geldi, ürün sağlamdı."
+398,2023-03-15,Ev & Yaşam,Xiaomi Akıllı Telefon Plus980,Xiaomi,10916.51,175,1453,4.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+399,2025-01-29,Elektronik,Adidas Oto Lastik X195,Adidas,5812.26,33,4276,5.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+400,2025-01-17,Oto & Aksesuar,Xiaomi Bebek Bezi Ultra908,Xiaomi,9235.4,89,1096,5.0,Malzeme kalitesi beklediğim gibi değil.
+401,2025-07-29,Ev & Yaşam,Nike T-Shirt Plus518,Nike,3130.03,1,58,1.0,Malzeme kalitesi beklediğim gibi değil.
+402,2025-08-31,Market,Defacto Bebek Bezi X258,Defacto,5140.98,149,3469,3.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+403,2024-09-26,Spor,Philips Koşu Bandı S523,Philips,6647.21,142,4580,4.0,Kullanımı çok kolay ve pratik.
+404,2025-03-01,Spor,Defacto Araç Aksesuarı M507,Defacto,8842.34,218,1325,1.0,Fiyat/performans açısından başarılı.
+405,2024-11-03,Anne & Bebek,Philips Parfüm Plus728,Philips,8379.53,180,43,1.0,
+406,2023-02-09,Moda,Zeytin Roman Kitap Plus545,Zeytin,1102.37,67,4989,2.0,"Satıcı ilgiliydi, teşekkürler."
+407,2025-06-07,Anne & Bebek,Beko Mutfak Tencere Plus393,Beko,8553.4,152,3596,1.0,Fiyat/performans açısından başarılı.
+408,2022-11-11,Spor,Vestel Kahve Makinesi Plus622,Vestel,6213.49,59,2946,5.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+409,2025-07-25,Moda,Mavi Kablosuz Kulaklık Ultra461,Mavi,8052.13,103,125,5.0,
+410,2024-08-10,Ev & Yaşam,Adidas Kablosuz Kulaklık Pro843,Adidas,9965.52,234,2265,5.0,Malzeme kalitesi beklediğim gibi değil.
+411,2025-06-25,Kitap,Nike Koşu Bandı X367,Nike,2140.84,129,2410,1.0,Fiyatına göre performansı iyi.
+412,2025-10-26,Oto & Aksesuar,Zeytin Kot Pantolon Plus932,Zeytin,9530.8,64,3961,4.0,
+413,2023-01-15,Market,Beko Masaj Aleti Ultra700,Beko,10351.04,123,3134,1.0,Malzeme kalitesi beklediğim gibi değil.
+414,2024-04-09,Kozmetik,NIVEA Parfüm Pro628,NIVEA,6450.58,179,761,3.0,Pil ömrü daha iyi olabilirdi.
+415,2023-09-08,Ev & Yaşam,Zeytin Oto Lastik S587,Zeytin,3800.09,55,1557,5.0,Malzeme kalitesi beklediğim gibi değil.
+416,2023-07-15,Kozmetik,Hepsiburada Spor Ayakkabı Pro311,Hepsiburada,2788.26,213,873,2.0,Fiyatına göre performansı iyi.
+417,2025-06-03,Kitap,Vestel Mutfak Tencere Plus143,Vestel,10183.57,95,4706,5.0,
+418,2022-12-18,Kitap,Philips Mutfak Robotu Plus386,Philips,4804.06,192,4306,5.0,
+419,2023-05-03,Kitap,Vestel Oto Lastik Plus455,Vestel,4754.31,175,4245,2.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+420,2025-09-26,Elektronik,NIVEA Kahve Makinesi Plus203,NIVEA,3938.29,156,2153,3.0,"Ambalaj hasarlı geldi, iade ettim."
+421,2024-11-27,Market,Samsung Nemlendirici Krem Ultra534,Samsung,2565.07,179,2290,3.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+422,2024-10-18,Moda,Beko Araç Aksesuarı S933,Beko,1242.54,69,1606,2.0,"Kargo geç geldi, ürün sağlamdı."
+423,2025-05-22,Kitap,Samsung Akıllı Telefon Ultra611,Samsung,1656.07,228,2457,5.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+424,2023-03-15,Elektronik,Arçelik Koşu Bandı M267,Arçelik,766.49,208,3685,3.0,
+425,2024-12-20,Spor,Defacto Nemlendirici Krem Plus670,Defacto,11185.47,65,993,3.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+426,2024-06-25,Kozmetik,Nike Araç Aksesuarı M764,Nike,6483.88,250,4181,3.0,"Ambalaj hasarlı geldi, iade ettim."
+427,2025-01-09,Ev & Yaşam,Nike Koşu Bandı Pro574,Nike,7598.59,37,4682,2.0,Fiyatına göre performansı iyi.
+428,2024-03-07,Ev & Yaşam,Defacto Mutfak Robotu S421,Defacto,3836.01,74,3644,3.0,
+429,2023-12-23,Market,Adidas Araç Aksesuarı Ultra523,Adidas,2048.62,218,2061,1.0,
+430,2022-10-22,Ev & Yaşam,Samsung Kahve Makinesi Ultra205,Samsung,1190.96,239,3252,4.0,Fiyatına göre performansı iyi.
+431,2023-12-12,Ev & Yaşam,Nike Kot Pantolon S186,Nike,7874.91,226,2026,4.0,
+432,2025-05-01,Kitap,Samsung Çamaşır Makinesi Plus958,Samsung,2087.94,8,3827,3.0,
+433,2025-03-22,Oto & Aksesuar,Adidas Kot Pantolon Ultra238,Adidas,11636.0,178,4620,5.0,Fiyat/performans açısından başarılı.
+434,2024-12-21,Spor,Penti Nemlendirici Krem Plus332,Penti,9666.06,113,2128,3.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+435,2025-05-03,Elektronik,Hepsiburada Ders Kitabı S452,Hepsiburada,3476.1,136,2454,1.0,"Satıcı ilgiliydi, teşekkürler."
+436,2024-11-15,Spor,Xiaomi Mutfak Tencere X661,Xiaomi,4514.42,105,2047,5.0,"Satıcı ilgiliydi, teşekkürler."
+437,2024-04-04,Anne & Bebek,Mavi Spor Ayakkabı X532,Mavi,7522.24,132,4357,5.0,
+438,2024-03-09,Anne & Bebek,Hepsiburada Kahve Makinesi X286,Hepsiburada,1681.79,28,4030,4.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+439,2025-02-12,Moda,Adidas Televizyon X290,Adidas,11669.35,72,67,3.0,"Kargo geç geldi, ürün sağlamdı."
+440,2025-04-05,Elektronik,Xiaomi Roman Kitap Pro530,Xiaomi,3772.65,204,259,4.0,"Kargo geç geldi, ürün sağlamdı."
+441,2024-10-19,Elektronik,Philips Kot Pantolon Ultra173,Philips,6540.69,46,103,2.0,Malzeme kalitesi beklediğim gibi değil.
+442,2025-04-24,Anne & Bebek,Xiaomi Masaj Aleti M134,Xiaomi,2429.4,188,3187,1.0,Kullanımı çok kolay ve pratik.
+443,2024-01-30,Market,Beko Mutfak Robotu M143,Beko,8949.2,140,3942,5.0,Malzeme kalitesi beklediğim gibi değil.
+444,2022-09-29,Market,Hepsiburada Televizyon M323,Hepsiburada,11680.6,60,1371,4.0,
+445,2024-09-28,Ev & Yaşam,Philips Koşu Bandı S109,Philips,11627.55,148,733,4.0,"Ambalaj hasarlı geldi, iade ettim."
+446,2023-05-14,Ev & Yaşam,Defacto Mutfak Tencere M161,Defacto,763.37,165,3996,2.0,Fiyat/performans açısından başarılı.
+447,2022-11-18,Market,LG Masaj Aleti S121,LG,8286.23,91,3975,2.0,
+448,2024-06-22,Oto & Aksesuar,Adidas T-Shirt M601,Adidas,2317.01,47,3837,5.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+449,2025-03-16,Oto & Aksesuar,Arçelik Mutfak Robotu Plus258,Arçelik,5419.59,209,5,3.0,
+450,2024-06-16,Oto & Aksesuar,LG Koşu Bandı S119,LG,7455.45,93,518,5.0,Fiyat/performans açısından başarılı.
+451,2024-06-20,Anne & Bebek,Adidas Kahve Makinesi M609,Adidas,9200.29,39,3357,5.0,Fiyatına göre performansı iyi.
+452,2023-10-17,Ev & Yaşam,Beko Ders Kitabı X144,Beko,10030.4,33,876,2.0,Fiyatına göre performansı iyi.
+453,2022-12-08,Elektronik,Beko Araç Aksesuarı Ultra773,Beko,5903.91,159,3001,5.0,Fiyatına göre performansı iyi.
+454,2025-10-15,Elektronik,Beko Kahve Makinesi Ultra952,Beko,1004.56,205,3407,1.0,
+455,2023-11-15,Elektronik,Mavi Mutfak Tencere Plus141,Mavi,8824.62,213,4255,3.0,Malzeme kalitesi beklediğim gibi değil.
+456,2023-04-03,Oto & Aksesuar,Xiaomi Koşu Bandı S638,Xiaomi,7899.33,145,4723,2.0,"Ambalaj hasarlı geldi, iade ettim."
+457,2024-08-20,Anne & Bebek,Samsung Buzdolabı S663,Samsung,4848.01,86,2581,2.0,Pil ömrü daha iyi olabilirdi.
+458,2025-10-26,Market,Philips Bebek Bezi M540,Philips,9922.38,82,4469,5.0,Fiyat/performans açısından başarılı.
+459,2025-07-25,Spor,Penti Nemlendirici Krem Ultra506,Penti,51.34,8,1106,3.0,
+460,2023-03-11,Spor,Mavi Akıllı Telefon S319,Mavi,10275.71,5,309,3.0,"Kargo geç geldi, ürün sağlamdı."
+461,2025-11-10,Moda,Defacto Kot Pantolon Plus355,Defacto,2833.51,207,3275,3.0,Malzeme kalitesi beklediğim gibi değil.
+462,2024-05-06,Ev & Yaşam,Philips Parfüm Ultra277,Philips,5884.39,230,306,5.0,
+463,2023-05-03,Anne & Bebek,Philips Kablosuz Kulaklık X889,Philips,4045.29,225,1857,4.0,
+464,2024-06-29,Elektronik,Vestel Koşu Bandı Pro636,Vestel,541.17,138,4115,5.0,"Kargo geç geldi, ürün sağlamdı."
+465,2024-11-14,Elektronik,Penti Koşu Bandı Plus689,Penti,6081.02,56,1212,4.0,Fiyatına göre performansı iyi.
+466,2023-05-24,Kitap,LG Araç Aksesuarı X661,LG,4819.74,21,1104,4.0,Malzeme kalitesi beklediğim gibi değil.
+467,2024-01-08,Kitap,Beko Koşu Bandı Plus300,Beko,6755.51,188,586,5.0,"Satıcı ilgiliydi, teşekkürler."
+468,2024-06-16,Market,Arçelik Araç Aksesuarı X787,Arçelik,4991.72,93,2822,3.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+469,2025-02-17,Spor,Defacto Mutfak Robotu Plus941,Defacto,11882.39,113,367,5.0,
+470,2022-12-19,Kozmetik,Beko Kahve Makinesi Pro259,Beko,9104.68,218,1991,1.0,
+471,2022-10-15,Moda,Vestel T-Shirt Pro810,Vestel,9660.96,78,2718,4.0,Fiyat/performans açısından başarılı.
+472,2022-10-06,Kozmetik,Adidas Kahve Makinesi Plus868,Adidas,3140.22,123,3085,5.0,Fiyat/performans açısından başarılı.
+473,2022-12-16,Elektronik,Samsung Kot Pantolon X390,Samsung,2447.52,178,3808,5.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+474,2022-10-08,Ev & Yaşam,Beko Koşu Bandı Pro778,Beko,10232.24,168,2396,3.0,
+475,2023-09-15,Anne & Bebek,NIVEA Spor Ayakkabı Plus826,NIVEA,1239.36,80,1629,4.0,"Ambalaj hasarlı geldi, iade ettim."
+476,2022-10-06,Oto & Aksesuar,Vestel Akıllı Telefon S642,Vestel,3693.19,125,2840,4.0,Pil ömrü daha iyi olabilirdi.
+477,2025-10-09,Spor,Adidas Spor Ayakkabı Pro931,Adidas,790.08,65,2295,4.0,Pil ömrü daha iyi olabilirdi.
+478,2024-12-31,Anne & Bebek,Arçelik Çamaşır Makinesi M491,Arçelik,6272.1,173,1969,5.0,"Satıcı ilgiliydi, teşekkürler."
+479,2023-06-08,Spor,Defacto Mutfak Tencere Ultra655,Defacto,1623.81,167,2531,2.0,Fiyat/performans açısından başarılı.
+480,2023-01-15,Moda,Zeytin Bebek Bezi S771,Zeytin,11199.64,234,4565,2.0,Fiyatına göre performansı iyi.
+481,2024-05-12,Moda,Hepsiburada Parfüm S844,Hepsiburada,401.36,81,3629,4.0,
+482,2025-11-03,Spor,Philips Çamaşır Makinesi S209,Philips,1621.1,6,1891,5.0,Malzeme kalitesi beklediğim gibi değil.
+483,2024-10-03,Elektronik,Arçelik Nemlendirici Krem M898,Arçelik,5744.87,128,1507,5.0,
+484,2024-12-22,Kitap,Samsung Roman Kitap S297,Samsung,2753.19,104,1823,1.0,
+485,2024-01-17,Kozmetik,Arçelik Kahve Makinesi S549,Arçelik,10412.06,125,3502,3.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+486,2025-07-31,Anne & Bebek,NIVEA Parfüm Plus860,NIVEA,6884.19,137,895,5.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+487,2023-09-22,Kozmetik,Adidas Ders Kitabı Ultra852,Adidas,518.1,99,2385,5.0,Kullanımı çok kolay ve pratik.
+488,2025-04-05,Spor,Samsung Masaj Aleti Ultra401,Samsung,7376.57,13,3700,5.0,Fiyat/performans açısından başarılı.
+489,2025-03-10,Ev & Yaşam,Philips Mutfak Robotu Plus812,Philips,6579.11,100,204,4.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+490,2023-03-04,Kozmetik,Arçelik Masaj Aleti Pro431,Arçelik,8315.71,232,935,2.0,
+491,2024-10-13,Market,Adidas Kablosuz Kulaklık M493,Adidas,8735.87,249,4508,5.0,"Kargo geç geldi, ürün sağlamdı."
+492,2022-12-13,Market,Hepsiburada Araç Aksesuarı M983,Hepsiburada,1842.72,222,3437,2.0,"Ambalaj hasarlı geldi, iade ettim."
+493,2025-03-26,Spor,Arçelik Mutfak Robotu S307,Arçelik,91.22,195,4076,3.0,
+494,2024-12-16,Oto & Aksesuar,Nike Akıllı Telefon Ultra343,Nike,2640.86,168,3619,4.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+495,2023-09-12,Elektronik,Zeytin Spor Ayakkabı Plus384,Zeytin,7455.82,142,1214,2.0,Pil ömrü daha iyi olabilirdi.
+496,2023-02-25,Elektronik,Hepsiburada Çamaşır Makinesi X783,Hepsiburada,6957.79,154,401,3.0,"Kargo geç geldi, ürün sağlamdı."
+497,2025-03-19,Moda,Nike T-Shirt M808,Nike,8412.87,146,4742,5.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+498,2024-04-20,Ev & Yaşam,Defacto T-Shirt Pro488,Defacto,9851.98,194,3856,4.0,Kullanımı çok kolay ve pratik.
+499,2025-11-12,Market,NIVEA Ders Kitabı Plus314,NIVEA,8364.86,156,4333,1.0,
+500,2025-08-10,Kitap,Zeytin Mutfak Tencere M394,Zeytin,5152.72,217,4711,3.0,
+501,2023-09-02,Market,Nike Çamaşır Makinesi Plus608,Nike,6260.0,161,4992,4.0,Kullanımı çok kolay ve pratik.
+502,2024-12-24,Kozmetik,Arçelik Akıllı Telefon X576,Arçelik,7523.88,30,372,2.0,Fiyat/performans açısından başarılı.
+503,2024-05-05,Kozmetik,Beko Akıllı Telefon S806,Beko,3414.72,202,4150,1.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+504,2023-10-01,Ev & Yaşam,Defacto Parfüm Ultra841,Defacto,6848.18,245,2707,1.0,
+505,2025-04-03,Kitap,Philips Roman Kitap X761,Philips,1671.39,39,3391,4.0,
+506,2023-10-30,Elektronik,Mavi Ders Kitabı Plus842,Mavi,8154.14,142,4730,5.0,Pil ömrü daha iyi olabilirdi.
+507,2025-11-11,Ev & Yaşam,Mavi Çamaşır Makinesi X447,Mavi,11804.23,160,4961,5.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+508,2023-12-29,Ev & Yaşam,LG T-Shirt Pro826,LG,426.99,105,3044,1.0,Kullanımı çok kolay ve pratik.
+509,2025-02-23,Kozmetik,Mavi Ders Kitabı S214,Mavi,4521.25,9,4145,2.0,"Ambalaj hasarlı geldi, iade ettim."
+510,2023-06-19,Oto & Aksesuar,Xiaomi Çamaşır Makinesi Pro595,Xiaomi,8802.4,134,804,3.0,
+511,2022-09-07,Oto & Aksesuar,Xiaomi Çamaşır Makinesi M137,Xiaomi,5538.91,182,2547,5.0,
+512,2025-11-24,Ev & Yaşam,Penti Parfüm X205,Penti,6270.42,168,2557,3.0,Malzeme kalitesi beklediğim gibi değil.
+513,2024-03-10,Market,Xiaomi Kahve Makinesi Pro383,Xiaomi,6410.23,197,1223,4.0,Fiyatına göre performansı iyi.
+514,2024-03-07,Elektronik,Adidas Mutfak Tencere Plus204,Adidas,2517.81,89,1159,5.0,
+515,2022-12-11,Spor,Xiaomi Araç Aksesuarı S172,Xiaomi,3770.27,228,1065,3.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+516,2024-08-27,Ev & Yaşam,Vestel Koşu Bandı X536,Vestel,4732.8,180,2559,5.0,Malzeme kalitesi beklediğim gibi değil.
+517,2025-03-20,Oto & Aksesuar,Zeytin Kablosuz Kulaklık Ultra681,Zeytin,1624.09,208,2542,4.0,"Ambalaj hasarlı geldi, iade ettim."
+518,2023-09-09,Kitap,Xiaomi Spor Ayakkabı S981,Xiaomi,10753.52,66,2706,3.0,
+519,2023-08-14,Market,Penti Masaj Aleti X166,Penti,5729.72,89,2312,4.0,
+520,2024-05-09,Moda,Arçelik Ders Kitabı Ultra937,Arçelik,8585.28,27,4364,3.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+521,2024-07-27,Anne & Bebek,Nike Spor Ayakkabı S661,Nike,1949.45,123,1705,4.0,
+522,2023-04-21,Anne & Bebek,Nike Bebek Bezi Pro657,Nike,8344.59,44,4851,1.0,Pil ömrü daha iyi olabilirdi.
+523,2024-10-14,Oto & Aksesuar,Hepsiburada Buzdolabı Ultra280,Hepsiburada,3730.33,103,2682,1.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+524,2023-07-01,Ev & Yaşam,Hepsiburada Kahve Makinesi S694,Hepsiburada,10843.81,162,3710,1.0,"Satıcı ilgiliydi, teşekkürler."
+525,2024-08-04,Kitap,Xiaomi Kahve Makinesi M998,Xiaomi,3832.66,145,731,3.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+526,2022-08-31,Oto & Aksesuar,Hepsiburada Koşu Bandı S972,Hepsiburada,3564.8,94,4587,5.0,
+527,2024-06-11,Market,Hepsiburada Buzdolabı Pro986,Hepsiburada,421.69,110,3135,5.0,"Satıcı ilgiliydi, teşekkürler."
+528,2024-12-31,Oto & Aksesuar,Beko Kahve Makinesi S586,Beko,1711.01,142,1263,4.0,"Kargo geç geldi, ürün sağlamdı."
+529,2023-06-04,Moda,Arçelik Akıllı Telefon M116,Arçelik,1769.89,226,693,4.0,"Satıcı ilgiliydi, teşekkürler."
+530,2024-10-25,Kitap,Zeytin Mutfak Tencere Ultra738,Zeytin,2197.76,130,2910,4.0,"Satıcı ilgiliydi, teşekkürler."
+531,2022-11-06,Elektronik,Penti Araç Aksesuarı M342,Penti,8559.67,68,310,4.0,Pil ömrü daha iyi olabilirdi.
+532,2025-04-08,Ev & Yaşam,Penti Araç Aksesuarı M181,Penti,1747.09,187,4234,5.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+533,2022-12-16,Ev & Yaşam,Penti Spor Ayakkabı M859,Penti,7981.32,171,2814,1.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+534,2024-04-13,Kitap,Adidas Masaj Aleti Ultra687,Adidas,8818.82,107,1372,3.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+535,2024-04-18,Spor,Mavi Araç Aksesuarı X744,Mavi,5703.74,43,223,5.0,Fiyatına göre performansı iyi.
+536,2022-09-28,Moda,Arçelik Ders Kitabı Pro358,Arçelik,1632.97,71,913,3.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+537,2025-08-14,Moda,Defacto Masaj Aleti S367,Defacto,9400.99,60,271,4.0,Fiyatına göre performansı iyi.
+538,2025-02-16,Moda,Zeytin Mutfak Tencere S957,Zeytin,5976.08,105,1370,4.0,Pil ömrü daha iyi olabilirdi.
+539,2025-05-01,Elektronik,Philips Kot Pantolon X153,Philips,2051.99,102,4362,4.0,"Satıcı ilgiliydi, teşekkürler."
+540,2024-06-06,Kitap,Samsung Kot Pantolon Plus991,Samsung,5244.51,73,4343,4.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+541,2024-03-05,Ev & Yaşam,Beko Oto Lastik Pro964,Beko,5209.27,235,2187,3.0,
+542,2025-07-29,Spor,NIVEA Araç Aksesuarı Ultra891,NIVEA,8119.4,61,2764,5.0,"Kargo geç geldi, ürün sağlamdı."
+543,2025-08-09,Market,Vestel Oto Lastik M108,Vestel,9988.52,3,851,4.0,Pil ömrü daha iyi olabilirdi.
+544,2023-05-06,Kozmetik,Mavi T-Shirt S134,Mavi,332.24,23,982,1.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+545,2024-01-30,Moda,Beko Koşu Bandı M679,Beko,9648.04,47,2413,1.0,Fiyatına göre performansı iyi.
+546,2023-07-27,Kitap,Philips Kot Pantolon Ultra808,Philips,10845.43,197,606,3.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+547,2023-01-19,Anne & Bebek,Defacto Koşu Bandı X364,Defacto,11469.44,67,4028,2.0,
+548,2023-11-20,Kozmetik,NIVEA Mutfak Tencere S760,NIVEA,5929.58,36,870,5.0,
+549,2025-06-14,Spor,Vestel Buzdolabı X172,Vestel,6877.14,64,1219,4.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+550,2025-07-20,Elektronik,Mavi Koşu Bandı S816,Mavi,3990.81,100,4019,5.0,"Satıcı ilgiliydi, teşekkürler."
+551,2025-11-03,Ev & Yaşam,Xiaomi Oto Lastik X493,Xiaomi,11452.11,209,4385,4.0,
+552,2025-08-28,Market,Beko Parfüm Pro510,Beko,708.63,245,2785,1.0,"Ambalaj hasarlı geldi, iade ettim."
+553,2024-11-05,Spor,Samsung Kahve Makinesi Plus140,Samsung,11611.75,169,874,2.0,Pil ömrü daha iyi olabilirdi.
+554,2022-10-20,Kitap,Zeytin Kablosuz Kulaklık M548,Zeytin,8836.86,35,4857,1.0,"Satıcı ilgiliydi, teşekkürler."
+555,2022-11-13,Ev & Yaşam,Beko Oto Lastik Pro611,Beko,6430.12,213,2779,4.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+556,2025-11-28,Anne & Bebek,Xiaomi Buzdolabı M783,Xiaomi,6300.8,240,1908,5.0,
+557,2024-01-09,Elektronik,Penti Çamaşır Makinesi M119,Penti,5680.55,235,1069,5.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+558,2025-06-13,Spor,Penti Buzdolabı Plus274,Penti,10032.29,16,4874,1.0,
+559,2023-05-04,Kozmetik,Philips Kablosuz Kulaklık S536,Philips,4080.59,213,4718,4.0,Pil ömrü daha iyi olabilirdi.
+560,2023-08-09,Kozmetik,Nike Televizyon S443,Nike,804.56,70,3030,2.0,"Ambalaj hasarlı geldi, iade ettim."
+561,2023-07-19,Kozmetik,Vestel Araç Aksesuarı S202,Vestel,9502.87,161,128,5.0,
+562,2025-04-30,Ev & Yaşam,Vestel Akıllı Telefon S191,Vestel,8495.26,151,1039,3.0,Kullanımı çok kolay ve pratik.
+563,2025-06-18,Oto & Aksesuar,NIVEA Masaj Aleti S278,NIVEA,7345.54,9,721,5.0,Kullanımı çok kolay ve pratik.
+564,2025-09-08,Market,Vestel Bebek Bezi Plus341,Vestel,2342.43,135,4157,1.0,Malzeme kalitesi beklediğim gibi değil.
+565,2023-08-26,Spor,Xiaomi Televizyon X915,Xiaomi,1832.3,216,1308,4.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+566,2023-03-31,Elektronik,Mavi Nemlendirici Krem S545,Mavi,3053.26,157,429,4.0,
+567,2025-11-29,Moda,Philips Mutfak Robotu X596,Philips,6202.61,18,2670,2.0,Pil ömrü daha iyi olabilirdi.
+568,2023-11-24,Kozmetik,Defacto Buzdolabı S200,Defacto,2882.8,105,602,2.0,"Ambalaj hasarlı geldi, iade ettim."
+569,2025-03-24,Elektronik,Samsung Bebek Bezi S724,Samsung,5486.6,99,1590,3.0,Kullanımı çok kolay ve pratik.
+570,2025-04-09,Kozmetik,Samsung Parfüm X808,Samsung,6845.13,71,3756,2.0,Pil ömrü daha iyi olabilirdi.
+571,2025-11-25,Kozmetik,Nike T-Shirt S908,Nike,9544.85,243,4528,5.0,
+572,2025-04-03,Ev & Yaşam,Hepsiburada Bebek Bezi Plus600,Hepsiburada,10353.14,55,2286,5.0,"Satıcı ilgiliydi, teşekkürler."
+573,2025-11-16,Kozmetik,Defacto Spor Ayakkabı Ultra693,Defacto,2706.98,237,41,5.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+574,2025-03-13,Elektronik,LG Roman Kitap Plus134,LG,5136.51,100,4057,4.0,Fiyat/performans açısından başarılı.
+575,2025-05-08,Elektronik,Xiaomi Bebek Bezi S467,Xiaomi,3583.99,165,2497,1.0,"Ambalaj hasarlı geldi, iade ettim."
+576,2022-09-01,Elektronik,Penti Masaj Aleti S995,Penti,8452.17,47,579,3.0,Pil ömrü daha iyi olabilirdi.
+577,2023-02-11,Oto & Aksesuar,Mavi Televizyon Ultra870,Mavi,3273.25,242,2750,5.0,
+578,2025-04-09,Elektronik,Zeytin Ders Kitabı M472,Zeytin,10661.22,28,334,4.0,"Kargo geç geldi, ürün sağlamdı."
+579,2025-05-05,Oto & Aksesuar,Adidas Kablosuz Kulaklık M892,Adidas,2495.52,85,4752,2.0,
+580,2023-01-06,Kozmetik,Defacto Spor Ayakkabı Pro373,Defacto,6067.12,108,3054,3.0,"Ambalaj hasarlı geldi, iade ettim."
+581,2025-03-12,Oto & Aksesuar,Hepsiburada Ders Kitabı X581,Hepsiburada,8532.12,173,3015,5.0,
+582,2023-02-03,Ev & Yaşam,Zeytin Kahve Makinesi Ultra189,Zeytin,1007.12,229,895,2.0,Fiyatına göre performansı iyi.
+583,2025-09-11,Moda,Samsung Roman Kitap S633,Samsung,11427.6,5,1081,3.0,"Satıcı ilgiliydi, teşekkürler."
+584,2024-12-20,Kitap,Mavi Akıllı Telefon S164,Mavi,312.36,205,4740,2.0,Pil ömrü daha iyi olabilirdi.
+585,2025-11-03,Kitap,Beko Araç Aksesuarı M642,Beko,10110.64,113,1080,4.0,
+586,2023-06-29,Spor,Philips Mutfak Robotu Pro332,Philips,5836.19,248,2892,3.0,"Kargo geç geldi, ürün sağlamdı."
+587,2023-12-30,Moda,Mavi Oto Lastik S279,Mavi,10079.85,177,957,2.0,Pil ömrü daha iyi olabilirdi.
+588,2024-08-03,Moda,Mavi Masaj Aleti Pro288,Mavi,2500.81,181,1211,1.0,Fiyat/performans açısından başarılı.
+589,2024-06-15,Moda,Mavi Oto Lastik X125,Mavi,4883.92,127,1278,2.0,Fiyat/performans açısından başarılı.
+590,2025-10-30,Oto & Aksesuar,Beko Parfüm M402,Beko,5712.71,74,3621,5.0,Fiyatına göre performansı iyi.
+591,2025-02-28,Kitap,Samsung Televizyon M664,Samsung,1445.79,6,2927,4.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+592,2023-02-17,Kozmetik,Adidas Araç Aksesuarı S900,Adidas,11231.13,71,4410,2.0,
+593,2024-09-07,Ev & Yaşam,NIVEA Ders Kitabı S602,NIVEA,3846.52,154,3256,5.0,"Satıcı ilgiliydi, teşekkürler."
+594,2023-11-14,Market,Defacto Koşu Bandı X391,Defacto,4171.14,78,3639,4.0,
+595,2023-06-11,Anne & Bebek,Mavi Masaj Aleti S925,Mavi,8749.34,229,4810,4.0,"Kargo geç geldi, ürün sağlamdı."
+596,2023-02-27,Kozmetik,Penti T-Shirt Plus443,Penti,839.15,245,54,5.0,Kullanımı çok kolay ve pratik.
+597,2023-09-14,Anne & Bebek,Adidas Mutfak Robotu Ultra827,Adidas,6836.17,234,3127,2.0,"Ambalaj hasarlı geldi, iade ettim."
+598,2022-10-23,Elektronik,Hepsiburada T-Shirt Plus411,Hepsiburada,5953.99,189,20,4.0,Kullanımı çok kolay ve pratik.
+599,2023-05-01,Kitap,Beko Buzdolabı M394,Beko,5034.44,125,2270,2.0,Fiyatına göre performansı iyi.
+600,2024-10-02,Market,Penti Araç Aksesuarı Plus546,Penti,10426.6,160,4198,4.0,
+601,2023-07-30,Elektronik,Samsung Kot Pantolon Plus159,Samsung,1795.48,118,433,2.0,"Satıcı ilgiliydi, teşekkürler."
+602,2023-09-09,Market,Mavi Televizyon Pro642,Mavi,7685.05,19,774,5.0,"Kargo geç geldi, ürün sağlamdı."
+603,2024-09-10,Oto & Aksesuar,Hepsiburada Parfüm Pro946,Hepsiburada,10147.53,204,785,3.0,Pil ömrü daha iyi olabilirdi.
+604,2023-07-29,Moda,Samsung Akıllı Telefon Plus388,Samsung,4506.89,124,839,4.0,Fiyat/performans açısından başarılı.
+605,2024-12-31,Kozmetik,Philips Kahve Makinesi Plus728,Philips,8291.04,243,3772,5.0,
+606,2025-02-20,Ev & Yaşam,Zeytin Çamaşır Makinesi X591,Zeytin,4210.46,176,4895,3.0,Pil ömrü daha iyi olabilirdi.
+607,2024-05-20,Moda,Vestel T-Shirt M934,Vestel,1466.35,32,1026,2.0,Fiyatına göre performansı iyi.
+608,2023-04-07,Anne & Bebek,Arçelik Buzdolabı X893,Arçelik,5836.33,110,268,1.0,
+609,2022-09-20,Oto & Aksesuar,Vestel Araç Aksesuarı Ultra221,Vestel,10906.83,11,790,1.0,
+610,2024-03-20,Kozmetik,Zeytin Araç Aksesuarı S289,Zeytin,8063.35,7,4749,1.0,"Kargo geç geldi, ürün sağlamdı."
+611,2025-08-17,Oto & Aksesuar,Xiaomi Mutfak Tencere Plus683,Xiaomi,865.7,209,1777,5.0,
+612,2024-09-18,Spor,Zeytin Mutfak Robotu Plus104,Zeytin,11684.25,25,4828,2.0,Fiyatına göre performansı iyi.
+613,2023-05-10,Moda,NIVEA Nemlendirici Krem Ultra319,NIVEA,6194.81,104,3816,1.0,"Kargo geç geldi, ürün sağlamdı."
+614,2023-04-23,Kitap,LG Nemlendirici Krem Pro670,LG,8679.25,21,3152,3.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+615,2023-01-19,Spor,Xiaomi Masaj Aleti Plus517,Xiaomi,3521.83,218,3896,4.0,
+616,2023-05-01,Market,Vestel Mutfak Robotu M603,Vestel,8081.21,101,1174,4.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+617,2023-12-19,Ev & Yaşam,Arçelik Mutfak Robotu Pro303,Arçelik,4095.99,152,3479,4.0,
+618,2025-04-30,Spor,Nike Araç Aksesuarı Pro874,Nike,9484.23,164,4941,4.0,
+619,2025-06-13,Kitap,Mavi Ders Kitabı S886,Mavi,5482.34,31,1890,3.0,"Kargo geç geldi, ürün sağlamdı."
+620,2024-10-21,Elektronik,LG Buzdolabı X950,LG,864.4,173,4952,1.0,"Kargo geç geldi, ürün sağlamdı."
+621,2025-04-10,Spor,Nike Mutfak Tencere X878,Nike,963.46,192,1654,5.0,"Ambalaj hasarlı geldi, iade ettim."
+622,2022-11-02,Kitap,Mavi Ders Kitabı Plus451,Mavi,9723.11,138,3525,5.0,
+623,2023-08-27,Ev & Yaşam,Penti Koşu Bandı Pro973,Penti,4546.6,117,4560,1.0,Kullanımı çok kolay ve pratik.
+624,2025-10-07,Moda,NIVEA Roman Kitap S419,NIVEA,8602.61,124,4418,1.0,"Ambalaj hasarlı geldi, iade ettim."
+625,2024-04-03,Oto & Aksesuar,Adidas Mutfak Robotu X500,Adidas,3196.79,151,2625,4.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+626,2024-10-17,Elektronik,Hepsiburada Çamaşır Makinesi Pro457,Hepsiburada,9723.97,149,797,1.0,Pil ömrü daha iyi olabilirdi.
+627,2023-01-11,Anne & Bebek,Vestel Nemlendirici Krem M350,Vestel,3008.23,165,2497,3.0,"Kargo geç geldi, ürün sağlamdı."
+628,2024-02-27,Elektronik,Defacto Oto Lastik X571,Defacto,7909.98,108,167,5.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+629,2023-10-25,Elektronik,NIVEA Parfüm Plus499,NIVEA,3902.26,25,2752,4.0,Pil ömrü daha iyi olabilirdi.
+630,2024-04-09,Moda,Mavi Mutfak Tencere Pro546,Mavi,2460.22,162,2172,1.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+631,2024-03-11,Anne & Bebek,Nike Spor Ayakkabı M194,Nike,8626.31,148,551,1.0,Fiyat/performans açısından başarılı.
+632,2025-02-01,Kitap,Xiaomi Bebek Bezi Pro914,Xiaomi,965.18,210,4423,3.0,"Satıcı ilgiliydi, teşekkürler."
+633,2025-07-22,Anne & Bebek,Nike Kot Pantolon Plus564,Nike,8074.82,140,1528,2.0,Malzeme kalitesi beklediğim gibi değil.
+634,2025-08-03,Kitap,Zeytin Kot Pantolon M645,Zeytin,9716.56,218,1643,4.0,"Kargo geç geldi, ürün sağlamdı."
+635,2023-01-08,Kozmetik,LG Çamaşır Makinesi M883,LG,3637.59,111,1667,4.0,
+636,2023-04-19,Spor,Beko T-Shirt S362,Beko,8257.6,60,1228,4.0,Malzeme kalitesi beklediğim gibi değil.
+637,2023-07-22,Spor,Penti Masaj Aleti Plus546,Penti,5092.55,231,2234,1.0,Kullanımı çok kolay ve pratik.
+638,2022-12-21,Spor,Samsung Oto Lastik M972,Samsung,553.72,184,687,4.0,Kullanımı çok kolay ve pratik.
+639,2023-12-26,Ev & Yaşam,Zeytin Bebek Bezi Pro787,Zeytin,7905.95,23,916,4.0,Fiyat/performans açısından başarılı.
+640,2023-12-30,Ev & Yaşam,Beko Ders Kitabı Plus893,Beko,11182.02,64,4913,4.0,Pil ömrü daha iyi olabilirdi.
+641,2023-06-21,Market,LG Araç Aksesuarı Ultra925,LG,8992.82,60,875,4.0,Kullanımı çok kolay ve pratik.
+642,2025-09-20,Kitap,Mavi Bebek Bezi Plus157,Mavi,5909.28,95,3471,1.0,Malzeme kalitesi beklediğim gibi değil.
+643,2022-12-19,Spor,Defacto Çamaşır Makinesi Ultra832,Defacto,4443.85,78,1963,1.0,"Satıcı ilgiliydi, teşekkürler."
+644,2022-09-15,Spor,Zeytin Nemlendirici Krem M224,Zeytin,6441.72,60,3219,4.0,
+645,2024-06-09,Spor,Arçelik T-Shirt S404,Arçelik,2563.33,227,3328,2.0,
+646,2023-03-23,Spor,Hepsiburada Kablosuz Kulaklık Ultra582,Hepsiburada,8856.19,237,1313,3.0,Fiyat/performans açısından başarılı.
+647,2022-10-25,Ev & Yaşam,NIVEA Nemlendirici Krem Plus846,NIVEA,9770.28,188,426,3.0,"Kargo geç geldi, ürün sağlamdı."
+648,2023-04-13,Kitap,Vestel Çamaşır Makinesi Ultra304,Vestel,7557.77,80,1292,5.0,"Kargo geç geldi, ürün sağlamdı."
+649,2024-03-29,Anne & Bebek,Penti Parfüm Ultra994,Penti,8835.04,66,1627,2.0,Pil ömrü daha iyi olabilirdi.
+650,2025-10-16,Moda,Zeytin Koşu Bandı Ultra954,Zeytin,10617.76,57,1873,1.0,
+651,2024-02-13,Kitap,Mavi Kahve Makinesi M972,Mavi,2065.8,102,1222,5.0,Pil ömrü daha iyi olabilirdi.
+652,2023-04-29,Moda,Arçelik Araç Aksesuarı X835,Arçelik,6333.29,197,1838,4.0,
+653,2024-03-31,Kozmetik,Mavi Kot Pantolon M606,Mavi,4615.16,110,1551,2.0,"Satıcı ilgiliydi, teşekkürler."
+654,2025-12-05,Moda,Mavi Akıllı Telefon Pro341,Mavi,7430.9,232,3753,2.0,"Ambalaj hasarlı geldi, iade ettim."
+655,2023-01-26,Moda,LG Parfüm Ultra803,LG,2585.21,98,780,4.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+656,2022-09-09,Market,Penti Spor Ayakkabı Pro720,Penti,11274.84,247,2077,5.0,"Satıcı ilgiliydi, teşekkürler."
+657,2024-02-14,Spor,Beko Koşu Bandı Pro235,Beko,11618.26,143,1391,1.0,Pil ömrü daha iyi olabilirdi.
+658,2024-06-01,Kitap,Arçelik Çamaşır Makinesi Pro827,Arçelik,6388.09,36,361,3.0,
+659,2025-07-23,Kitap,LG Kot Pantolon Pro540,LG,3430.24,224,2564,3.0,"Kargo geç geldi, ürün sağlamdı."
+660,2023-09-20,Market,Philips Roman Kitap S669,Philips,10243.61,168,1217,4.0,"Kargo geç geldi, ürün sağlamdı."
+661,2025-02-19,Elektronik,Mavi Roman Kitap S822,Mavi,5631.7,29,2920,4.0,
+662,2024-08-14,Oto & Aksesuar,Penti Roman Kitap Ultra215,Penti,10157.61,221,766,2.0,Kullanımı çok kolay ve pratik.
+663,2025-12-07,Moda,LG Mutfak Robotu Plus942,LG,3309.13,228,33,5.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+664,2022-10-22,Moda,Zeytin Bebek Bezi X352,Zeytin,9230.4,173,2328,1.0,Fiyatına göre performansı iyi.
+665,2025-05-08,Anne & Bebek,Nike Nemlendirici Krem X957,Nike,3915.61,7,3719,1.0,Kullanımı çok kolay ve pratik.
+666,2023-11-05,Elektronik,Vestel Parfüm M737,Vestel,11413.16,83,398,5.0,
+667,2023-03-07,Spor,Philips Parfüm X861,Philips,894.22,243,3267,5.0,Malzeme kalitesi beklediğim gibi değil.
+668,2023-05-03,Anne & Bebek,Vestel Kablosuz Kulaklık S266,Vestel,4692.0,103,2445,3.0,"Satıcı ilgiliydi, teşekkürler."
+669,2025-05-28,Spor,Samsung Mutfak Tencere Pro781,Samsung,1197.63,94,3649,5.0,
+670,2025-02-04,Kitap,Nike Kot Pantolon Plus533,Nike,1127.25,108,3489,3.0,Fiyat/performans açısından başarılı.
+671,2024-04-16,Market,Beko Masaj Aleti S763,Beko,8250.21,39,3835,4.0,"Ambalaj hasarlı geldi, iade ettim."
+672,2025-11-06,Spor,Samsung Çamaşır Makinesi M407,Samsung,10106.22,133,390,4.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+673,2024-08-26,Oto & Aksesuar,Adidas Buzdolabı Ultra522,Adidas,1178.18,169,2087,5.0,Fiyat/performans açısından başarılı.
+674,2023-02-16,Elektronik,LG Buzdolabı M573,LG,2194.83,46,3409,4.0,
+675,2024-07-29,Spor,Nike Parfüm M565,Nike,9100.14,115,1533,5.0,Fiyatına göre performansı iyi.
+676,2025-05-03,Spor,NIVEA Buzdolabı Plus118,NIVEA,118.88,29,3769,1.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+677,2023-02-25,Kitap,Nike T-Shirt Plus469,Nike,8303.11,246,1024,4.0,Malzeme kalitesi beklediğim gibi değil.
+678,2025-02-07,Ev & Yaşam,LG Akıllı Telefon S979,LG,369.47,123,4412,2.0,Kullanımı çok kolay ve pratik.
+679,2025-05-19,Kitap,Penti Çamaşır Makinesi Ultra122,Penti,1440.8,231,3862,2.0,"Ambalaj hasarlı geldi, iade ettim."
+680,2023-03-28,Kozmetik,Mavi Kahve Makinesi Plus949,Mavi,10014.2,13,3537,3.0,
+681,2025-05-21,Kitap,Nike Araç Aksesuarı M667,Nike,11988.36,9,4205,4.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+682,2024-02-29,Kitap,LG Spor Ayakkabı X640,LG,276.3,147,3417,3.0,
+683,2024-04-10,Ev & Yaşam,Nike Roman Kitap M455,Nike,5406.94,111,1574,1.0,"Ambalaj hasarlı geldi, iade ettim."
+684,2024-04-21,Kozmetik,Xiaomi Ders Kitabı Plus801,Xiaomi,4102.22,154,3197,4.0,
+685,2023-05-21,Market,Philips Roman Kitap S736,Philips,2525.35,176,1419,1.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+686,2022-10-06,Kitap,Philips Buzdolabı Ultra605,Philips,3677.94,53,2939,5.0,
+687,2023-12-07,Market,Samsung Mutfak Robotu Plus132,Samsung,9691.25,86,988,4.0,"Ambalaj hasarlı geldi, iade ettim."
+688,2023-07-05,Spor,Philips Parfüm Pro887,Philips,606.83,224,4222,5.0,Fiyatına göre performansı iyi.
+689,2025-10-24,Elektronik,Philips Masaj Aleti Ultra961,Philips,9081.14,249,343,1.0,"Kargo geç geldi, ürün sağlamdı."
+690,2023-03-21,Ev & Yaşam,Zeytin Kahve Makinesi Pro260,Zeytin,8753.5,181,1263,4.0,Pil ömrü daha iyi olabilirdi.
+691,2025-04-26,Moda,Hepsiburada Buzdolabı S549,Hepsiburada,11637.13,196,2796,1.0,"Kargo geç geldi, ürün sağlamdı."
+692,2025-08-18,Ev & Yaşam,Defacto Kot Pantolon M872,Defacto,5008.77,161,3454,2.0,
+693,2025-02-21,Moda,NIVEA Bebek Bezi Ultra569,NIVEA,11424.45,132,1192,3.0,
+694,2023-01-02,Oto & Aksesuar,Arçelik Kablosuz Kulaklık Pro422,Arçelik,4849.13,197,3221,2.0,
+695,2025-01-04,Moda,Vestel Araç Aksesuarı M830,Vestel,9598.69,224,3293,5.0,
+696,2024-12-04,Oto & Aksesuar,LG T-Shirt M421,LG,10915.22,2,3655,3.0,Fiyat/performans açısından başarılı.
+697,2022-11-13,Kitap,Zeytin Nemlendirici Krem M514,Zeytin,9315.81,225,4402,3.0,"Kargo geç geldi, ürün sağlamdı."
+698,2023-07-23,Oto & Aksesuar,Mavi Oto Lastik S195,Mavi,6163.99,79,191,5.0,Fiyat/performans açısından başarılı.
+699,2024-10-01,Spor,Hepsiburada Spor Ayakkabı Pro843,Hepsiburada,5101.24,129,2127,1.0,Pil ömrü daha iyi olabilirdi.
+700,2024-07-24,Ev & Yaşam,Philips Televizyon M227,Philips,5411.85,146,1934,1.0,
+701,2024-10-11,Oto & Aksesuar,Xiaomi Mutfak Tencere Pro406,Xiaomi,3449.48,200,4257,5.0,
+702,2023-06-26,Ev & Yaşam,Adidas Parfüm Plus297,Adidas,9882.79,92,3487,4.0,
+703,2025-08-11,Ev & Yaşam,Vestel Kablosuz Kulaklık Ultra233,Vestel,5740.7,114,3299,1.0,Fiyat/performans açısından başarılı.
+704,2023-07-29,Anne & Bebek,Nike Kot Pantolon Ultra751,Nike,5109.32,112,1182,4.0,"Ambalaj hasarlı geldi, iade ettim."
+705,2025-04-25,Kitap,LG Çamaşır Makinesi Plus983,LG,6372.77,177,267,2.0,
+706,2025-11-12,Oto & Aksesuar,Zeytin Nemlendirici Krem X716,Zeytin,10235.05,28,2372,1.0,"Kargo geç geldi, ürün sağlamdı."
+707,2025-01-09,Ev & Yaşam,Mavi Nemlendirici Krem Pro410,Mavi,3562.37,7,398,2.0,
+708,2023-01-15,Spor,Xiaomi T-Shirt S938,Xiaomi,8888.68,0,366,1.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+709,2023-06-09,Spor,Penti Araç Aksesuarı Pro900,Penti,4558.18,213,4135,5.0,"Ambalaj hasarlı geldi, iade ettim."
+710,2024-10-31,Kitap,Hepsiburada Çamaşır Makinesi M433,Hepsiburada,1116.4,159,1907,5.0,
+711,2022-10-19,Market,Vestel Oto Lastik M553,Vestel,8843.89,165,4685,1.0,Kullanımı çok kolay ve pratik.
+712,2025-11-09,Oto & Aksesuar,Beko Buzdolabı Plus187,Beko,2348.69,158,4274,5.0,"Ambalaj hasarlı geldi, iade ettim."
+713,2024-01-14,Oto & Aksesuar,Arçelik Akıllı Telefon M644,Arçelik,2197.11,4,4747,3.0,Fiyat/performans açısından başarılı.
+714,2023-09-03,Market,Nike Koşu Bandı X603,Nike,10350.46,5,3399,3.0,Fiyat/performans açısından başarılı.
+715,2023-06-20,Market,Mavi Koşu Bandı X217,Mavi,11758.42,138,1496,2.0,Fiyatına göre performansı iyi.
+716,2022-10-24,Moda,NIVEA T-Shirt M273,NIVEA,753.08,246,479,3.0,Fiyatına göre performansı iyi.
+717,2023-10-18,Market,NIVEA Çamaşır Makinesi Pro364,NIVEA,4536.76,211,1962,1.0,
+718,2025-04-07,Kozmetik,Adidas Roman Kitap Plus494,Adidas,11394.77,68,4531,1.0,"Ambalaj hasarlı geldi, iade ettim."
+719,2024-01-16,Elektronik,Beko Bebek Bezi S119,Beko,3265.73,246,4544,5.0,"Kargo geç geldi, ürün sağlamdı."
+720,2024-10-02,Spor,NIVEA Araç Aksesuarı Ultra185,NIVEA,10162.87,128,4427,2.0,
+721,2023-08-07,Kozmetik,NIVEA Oto Lastik Plus562,NIVEA,548.46,208,4,4.0,"Ambalaj hasarlı geldi, iade ettim."
+722,2022-12-01,Spor,Mavi Mutfak Tencere M489,Mavi,11990.94,215,1322,2.0,
+723,2025-01-30,Ev & Yaşam,Arçelik T-Shirt Ultra815,Arçelik,1518.7,35,1727,5.0,Pil ömrü daha iyi olabilirdi.
+724,2023-11-04,Market,Philips Kot Pantolon M563,Philips,3311.78,169,3766,3.0,
+725,2022-09-07,Market,Zeytin Akıllı Telefon M236,Zeytin,7774.64,0,78,5.0,"Satıcı ilgiliydi, teşekkürler."
+726,2025-02-26,Oto & Aksesuar,Philips Roman Kitap Ultra651,Philips,1018.81,224,1011,1.0,"Satıcı ilgiliydi, teşekkürler."
+727,2022-09-18,Market,Samsung Koşu Bandı M108,Samsung,1540.05,94,1814,2.0,
+728,2025-06-06,Spor,Xiaomi Nemlendirici Krem X935,Xiaomi,7380.25,77,2973,2.0,"Ambalaj hasarlı geldi, iade ettim."
+729,2023-08-14,Kozmetik,Xiaomi Akıllı Telefon M505,Xiaomi,1374.92,71,4520,5.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+730,2025-08-05,Moda,Nike Kablosuz Kulaklık S863,Nike,826.4,66,2247,5.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+731,2024-06-21,Oto & Aksesuar,Mavi Mutfak Tencere M673,Mavi,10602.95,0,3543,4.0,
+732,2023-12-02,Anne & Bebek,Arçelik Kot Pantolon M630,Arçelik,5625.18,92,384,5.0,"Satıcı ilgiliydi, teşekkürler."
+733,2023-12-05,Oto & Aksesuar,Defacto Masaj Aleti X501,Defacto,2374.76,20,3471,5.0,
+734,2025-05-08,Kozmetik,Samsung Kahve Makinesi Pro418,Samsung,800.05,160,3538,1.0,
+735,2025-07-29,Market,Xiaomi Kot Pantolon X584,Xiaomi,2897.63,87,1939,1.0,
+736,2024-10-10,Kitap,Beko Buzdolabı Ultra692,Beko,1540.8,249,2566,1.0,
+737,2023-03-26,Ev & Yaşam,Vestel Çamaşır Makinesi Ultra156,Vestel,3651.88,160,457,4.0,Kullanımı çok kolay ve pratik.
+738,2025-03-15,Anne & Bebek,Arçelik Koşu Bandı Plus870,Arçelik,4962.15,221,3145,5.0,"Satıcı ilgiliydi, teşekkürler."
+739,2023-04-08,Ev & Yaşam,Beko Parfüm M901,Beko,359.39,132,841,3.0,Fiyatına göre performansı iyi.
+740,2023-09-14,Kozmetik,Samsung Araç Aksesuarı M621,Samsung,3111.88,107,1991,4.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+741,2025-12-07,Elektronik,Mavi Çamaşır Makinesi Plus546,Mavi,6181.37,166,4433,3.0,
+742,2022-12-25,Moda,Mavi Roman Kitap Plus451,Mavi,3527.51,248,1944,1.0,Fiyat/performans açısından başarılı.
+743,2023-09-21,Elektronik,Defacto Bebek Bezi S305,Defacto,7704.27,51,3897,1.0,"Ambalaj hasarlı geldi, iade ettim."
+744,2025-03-17,Market,Nike Araç Aksesuarı Pro730,Nike,3629.9,84,345,2.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+745,2023-10-24,Kozmetik,Penti Spor Ayakkabı Plus318,Penti,2905.52,188,3279,3.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+746,2023-10-02,Market,Arçelik Akıllı Telefon Pro130,Arçelik,6678.12,36,4797,3.0,
+747,2024-07-25,Market,Vestel Televizyon S302,Vestel,3444.29,56,4542,3.0,Malzeme kalitesi beklediğim gibi değil.
+748,2023-04-14,Elektronik,Hepsiburada Mutfak Robotu Pro203,Hepsiburada,299.9,173,2772,2.0,
+749,2023-01-10,Spor,Xiaomi Masaj Aleti Pro928,Xiaomi,4498.96,43,970,5.0,"Kargo geç geldi, ürün sağlamdı."
+750,2022-12-02,Kozmetik,Adidas Kahve Makinesi Ultra811,Adidas,4521.73,153,4811,4.0,Fiyat/performans açısından başarılı.
+751,2023-11-01,Spor,Defacto Çamaşır Makinesi S154,Defacto,7571.67,71,666,2.0,
+752,2025-06-16,Ev & Yaşam,Adidas Mutfak Robotu Ultra869,Adidas,10594.83,192,4250,5.0,Pil ömrü daha iyi olabilirdi.
+753,2025-12-07,Market,LG Ders Kitabı Ultra832,LG,11471.19,121,299,3.0,Malzeme kalitesi beklediğim gibi değil.
+754,2024-10-04,Kitap,NIVEA Spor Ayakkabı S413,NIVEA,5128.45,96,2085,5.0,"Kargo geç geldi, ürün sağlamdı."
+755,2025-01-18,Ev & Yaşam,Penti T-Shirt Plus460,Penti,2799.85,10,3695,4.0,"Satıcı ilgiliydi, teşekkürler."
+756,2023-02-01,Market,Defacto Roman Kitap Pro491,Defacto,344.41,113,2941,2.0,
+757,2023-04-29,Spor,Adidas Ders Kitabı Plus759,Adidas,983.08,70,584,2.0,Fiyat/performans açısından başarılı.
+758,2023-06-08,Kozmetik,Xiaomi Parfüm M437,Xiaomi,3037.03,190,4449,3.0,
+759,2025-04-22,Elektronik,Mavi T-Shirt Pro901,Mavi,11962.26,242,4199,4.0,
+760,2025-03-31,Moda,Xiaomi Koşu Bandı S840,Xiaomi,9001.94,121,2790,2.0,
+761,2024-10-05,Market,NIVEA Kahve Makinesi M527,NIVEA,2553.75,115,1138,5.0,"Kargo geç geldi, ürün sağlamdı."
+762,2024-12-03,Spor,Penti Akıllı Telefon M954,Penti,4287.57,57,4404,4.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+763,2024-10-18,Elektronik,Philips Araç Aksesuarı X242,Philips,1885.76,243,1672,3.0,
+764,2023-03-08,Ev & Yaşam,NIVEA Oto Lastik S586,NIVEA,1347.34,145,1404,4.0,Fiyat/performans açısından başarılı.
+765,2024-10-28,Moda,Hepsiburada Televizyon M717,Hepsiburada,5888.42,47,2325,2.0,Kullanımı çok kolay ve pratik.
+766,2024-11-07,Oto & Aksesuar,Penti Kablosuz Kulaklık X477,Penti,6245.97,43,1286,3.0,
+767,2023-10-25,Moda,NIVEA Oto Lastik Ultra860,NIVEA,870.79,244,2537,2.0,"Ambalaj hasarlı geldi, iade ettim."
+768,2023-10-17,Moda,Nike Mutfak Tencere Pro701,Nike,2474.73,183,60,4.0,
+769,2025-03-29,Kitap,Hepsiburada Kablosuz Kulaklık Ultra719,Hepsiburada,9700.22,134,3790,3.0,Fiyatına göre performansı iyi.
+770,2024-12-27,Spor,Defacto Masaj Aleti M962,Defacto,8553.9,76,2040,4.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+771,2024-01-02,Anne & Bebek,NIVEA Masaj Aleti M287,NIVEA,8397.04,24,1293,4.0,Fiyat/performans açısından başarılı.
+772,2025-10-05,Spor,LG Kablosuz Kulaklık M839,LG,10831.61,232,993,4.0,
+773,2025-04-02,Ev & Yaşam,Adidas Buzdolabı Pro519,Adidas,5438.14,64,218,2.0,"Ambalaj hasarlı geldi, iade ettim."
+774,2023-04-21,Anne & Bebek,LG Parfüm Ultra976,LG,2372.32,9,1118,1.0,"Ambalaj hasarlı geldi, iade ettim."
+775,2025-04-20,Kitap,Arçelik Masaj Aleti X661,Arçelik,7901.08,182,2286,4.0,
+776,2023-02-04,Moda,Nike Akıllı Telefon X281,Nike,3564.32,136,91,4.0,"Kargo geç geldi, ürün sağlamdı."
+777,2025-02-20,Kitap,Samsung Nemlendirici Krem S831,Samsung,460.65,172,391,5.0,
+778,2024-10-10,Oto & Aksesuar,NIVEA Buzdolabı M415,NIVEA,5355.08,153,1652,1.0,
+779,2023-01-06,Market,Xiaomi Spor Ayakkabı X116,Xiaomi,5088.53,3,1806,3.0,
+780,2025-10-24,Ev & Yaşam,LG Mutfak Robotu S145,LG,5016.79,27,1552,3.0,Fiyat/performans açısından başarılı.
+781,2024-11-30,Anne & Bebek,Arçelik Bebek Bezi S318,Arçelik,1314.44,82,2590,2.0,Malzeme kalitesi beklediğim gibi değil.
+782,2023-01-14,Kitap,Arçelik Spor Ayakkabı M934,Arçelik,3376.85,159,1790,3.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+783,2024-01-27,Kitap,LG Buzdolabı Plus910,LG,11886.84,217,776,5.0,"Satıcı ilgiliydi, teşekkürler."
+784,2024-07-16,Moda,Samsung Parfüm M879,Samsung,10613.29,81,144,4.0,"Teknik servis kurulumu yaptı, memnun kaldım."
+785,2022-10-12,Kitap,Adidas Koşu Bandı M859,Adidas,2826.72,150,1016,1.0,"Satıcı ilgiliydi, teşekkürler."
+786,2024-10-07,Kozmetik,Arçelik Mutfak Tencere X240,Arçelik,4524.93,75,1674,2.0,Malzeme kalitesi beklediğim gibi değil.
+787,2024-04-11,Kitap,Samsung Parfüm Pro425,Samsung,7740.69,194,194,1.0,Pil ömrü daha iyi olabilirdi.
+788,2024-10-19,Market,Xiaomi Spor Ayakkabı Plus155,Xiaomi,10884.16,170,4271,2.0,"Ambalaj hasarlı geldi, iade ettim."
+789,2023-05-14,Elektronik,Hepsiburada Kablosuz Kulaklık Ultra171,Hepsiburada,11446.2,13,751,2.0,Fiyat/performans açısından başarılı.
+790,2024-01-13,Kozmetik,Adidas Spor Ayakkabı X536,Adidas,8713.34,79,3473,2.0,Malzeme kalitesi beklediğim gibi değil.
+791,2024-09-04,Spor,Nike T-Shirt Ultra750,Nike,2455.94,220,3262,4.0,"Ambalaj hasarlı geldi, iade ettim."
+792,2024-10-19,Kitap,Adidas Bebek Bezi Plus852,Adidas,5228.93,39,3501,4.0,
+793,2024-05-17,Spor,Adidas Mutfak Tencere S666,Adidas,8733.17,65,3715,4.0,Fiyat/performans açısından başarılı.
+794,2022-09-25,Kitap,Defacto Kablosuz Kulaklık S832,Defacto,5657.11,39,4101,2.0,
+795,2024-05-21,Market,NIVEA Roman Kitap Ultra504,NIVEA,11647.36,95,4819,4.0,"Ürün beklediğimden iyi çıktı, tavsiye ederim."
+796,2025-07-08,Ev & Yaşam,Zeytin Koşu Bandı Plus266,Zeytin,2370.22,111,4002,3.0,Pil ömrü daha iyi olabilirdi.
+797,2022-10-26,Elektronik,Zeytin Koşu Bandı Ultra853,Zeytin,2998.41,122,1211,1.0,"Ambalaj hasarlı geldi, iade ettim."
+798,2023-04-26,Moda,Xiaomi Kot Pantolon Plus692,Xiaomi,11423.7,215,756,2.0,"Satıcı ilgiliydi, teşekkürler."
+799,2025-01-20,Anne & Bebek,Zeytin Araç Aksesuarı X630,Zeytin,10923.8,224,2071,4.0,Fiyat/performans açısından başarılı.
+800,2025-11-14,Oto & Aksesuar,Nike Koşu Bandı Pro851,Nike,4968.14,224,2821,1.0,
